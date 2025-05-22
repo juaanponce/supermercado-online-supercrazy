@@ -1,0 +1,19 @@
+# Ignorar archivos innecesarios
+uploads/
+cache/
+upgrade/
+mu-plugins/
+languages/
+themes/twenty*/
+plugins/hello.php
+
+# Ignorar configuraciones del sistema
+*.log
+*.sql
+*.zip
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+node_modules/
+vendor/

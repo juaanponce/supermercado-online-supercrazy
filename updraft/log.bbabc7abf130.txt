@@ -1,0 +1,1299 @@
+0000.000 (0) Opened log file at time: Thu, 17 Oct 2024 14:56:14 +0000 on http://supercrazy.com.ar
+0000.014 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.24.6 WP: 6.6.2 PHP: 7.4.33 (cli, Linux l001a.dattaweb.com 3.10.0-1160.119.1.el7.x86_64 #1 SMP Tue Jun 4 14:43:51 UTC 2024 x86_64) MySQL: 8.0.35 (max packet size=786432000) WPLANG: es_ES Server:  safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 51.1M | 68M) multisite: N openssl: OpenSSL 1.0.2k  26 Jan 2017 mcrypt: Y LANG: en_US.UTF-8 ZipArchive::addFile: Y
+0000.038 (0) Free space on disk containing Updraft's temporary directory: 480756.8 MB
+0000.067 (0) Tasks: Backup files: 1 (schedule: weekly) Backup DB:  (schedule: weekly)
+0000.082 (0) Processed schedules. Combining jobs from identical schedules. Tasks now: Backup files: 1 Backup DB: 1
+0000.133 (0) Requesting semaphore lock (fd) (apparently via scheduler: last_scheduled_action_called_at=1728831312, seconds_ago=345662)
+0000.210 (0) Set semaphore last lock (fd) time to 2024-10-17 14:56:14
+0000.227 (0) Semaphore lock (fd) complete
+0000.271 (0) Backup run: resumption=0, nonce=bbabc7abf130, file_nonce=bbabc7abf130 begun at=1729176974 (0s ago), job type=backup
+0000.308 (0) Scheduling a resumption (1) after 300 seconds (1729177274) in case this run gets aborted
+0000.347 (0) Checking if we have a zip executable available
+0000.378 (0) Creation of backups of directories: beginning
+0000.449 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0007.941 (0) Total entities for the zip file: 5447 directories, 22538 files (0 skipped as non-modified), 356.8 MB
+0007.970 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0008.124 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 100 files added (on-disk size: 1028.6 KB)
+0008.148 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 200 files added (on-disk size: 1028.6 KB)
+0008.178 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 300 files added (on-disk size: 1028.6 KB)
+0008.209 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 400 files added (on-disk size: 1028.6 KB)
+0008.243 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 500 files added (on-disk size: 1028.6 KB)
+0008.281 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 600 files added (on-disk size: 1028.6 KB)
+0008.316 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 700 files added (on-disk size: 1028.6 KB)
+0008.357 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 800 files added (on-disk size: 1028.6 KB)
+0008.390 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 900 files added (on-disk size: 1028.6 KB)
+0008.433 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1000 files added (on-disk size: 1028.6 KB)
+0008.445 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.7 MB, 22538 files batched, 1001 (1002) added so far); re-opening (prior size: 1028.6 KB)
+0008.819 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1100 files added (on-disk size: 3878.1 KB)
+0008.876 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1200 files added (on-disk size: 3878.1 KB)
+0008.925 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1300 files added (on-disk size: 3878.1 KB)
+0008.971 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1400 files added (on-disk size: 3878.1 KB)
+0009.014 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1500 files added (on-disk size: 3878.1 KB)
+0009.064 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1600 files added (on-disk size: 3878.1 KB)
+0009.105 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1700 files added (on-disk size: 3878.1 KB)
+0009.142 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1800 files added (on-disk size: 3878.1 KB)
+0009.182 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 1900 files added (on-disk size: 3878.1 KB)
+0009.218 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2000 files added (on-disk size: 3878.1 KB)
+0009.237 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (14.6 MB, 22538 files batched, 1001 (2003) added so far); re-opening (prior size: 3878.1 KB)
+0010.213 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2100 files added (on-disk size: 5707.2 KB)
+0010.253 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2200 files added (on-disk size: 5707.2 KB)
+0010.298 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2300 files added (on-disk size: 5707.2 KB)
+0010.342 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2400 files added (on-disk size: 5707.2 KB)
+0010.399 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2500 files added (on-disk size: 5707.2 KB)
+0010.456 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2600 files added (on-disk size: 5707.2 KB)
+0010.498 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2700 files added (on-disk size: 5707.2 KB)
+0010.541 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2800 files added (on-disk size: 5707.2 KB)
+0010.592 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 2900 files added (on-disk size: 5707.2 KB)
+0010.648 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3000 files added (on-disk size: 5707.2 KB)
+0010.660 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.9 MB, 22538 files batched, 1001 (3004) added so far); re-opening (prior size: 5707.2 KB)
+0011.957 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3100 files added (on-disk size: 8024.9 KB)
+0012.004 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3200 files added (on-disk size: 8024.9 KB)
+0012.049 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3300 files added (on-disk size: 8024.9 KB)
+0012.090 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3400 files added (on-disk size: 8024.9 KB)
+0012.138 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3500 files added (on-disk size: 8024.9 KB)
+0012.182 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3600 files added (on-disk size: 8024.9 KB)
+0012.225 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3700 files added (on-disk size: 8024.9 KB)
+0012.257 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3800 files added (on-disk size: 8024.9 KB)
+0012.282 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 3900 files added (on-disk size: 8024.9 KB)
+0012.316 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4000 files added (on-disk size: 8024.9 KB)
+0012.333 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.7 MB, 22538 files batched, 1001 (4005) added so far); re-opening (prior size: 8024.9 KB)
+0012.758 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4100 files added (on-disk size: 9376.1 KB)
+0012.789 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4200 files added (on-disk size: 9376.1 KB)
+0012.821 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4300 files added (on-disk size: 9376.1 KB)
+0012.858 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4400 files added (on-disk size: 9376.1 KB)
+0012.888 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4500 files added (on-disk size: 9376.1 KB)
+0012.929 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4600 files added (on-disk size: 9376.1 KB)
+0012.974 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4700 files added (on-disk size: 9376.1 KB)
+0013.001 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4800 files added (on-disk size: 9376.1 KB)
+0013.029 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 4900 files added (on-disk size: 9376.1 KB)
+0013.061 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5000 files added (on-disk size: 9376.1 KB)
+0013.082 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.5 MB, 22538 files batched, 1001 (5006) added so far); re-opening (prior size: 9376.1 KB)
+0013.963 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5100 files added (on-disk size: 14198.7 KB)
+0013.994 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5200 files added (on-disk size: 14198.7 KB)
+0014.023 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5300 files added (on-disk size: 14198.7 KB)
+0014.057 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5400 files added (on-disk size: 14198.7 KB)
+0014.095 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5500 files added (on-disk size: 14198.7 KB)
+0014.115 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 22538 files batched, 535 (5541) added so far); re-opening (prior size: 14198.7 KB)
+0015.349 (0) A useful amount of data was added after this amount of zip processing: 1.7 s (normalised: 1.7 s, rate: 14704.7 KB/s)
+0015.371 (0) Performance is good - will increase the amount of data we attempt to batch (time=1.741348028183, normalised_time=1.740942983198, max_time=15.360844135284, data points known=1, old_max_bytes=26214400, new_max_bytes=138778345)
+0015.426 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5600 files added (on-disk size: 19931.5 KB)
+0015.463 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5700 files added (on-disk size: 19931.5 KB)
+0015.496 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5800 files added (on-disk size: 19931.5 KB)
+0015.523 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 5900 files added (on-disk size: 19931.5 KB)
+0015.556 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6000 files added (on-disk size: 19931.5 KB)
+0015.591 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6100 files added (on-disk size: 19931.5 KB)
+0015.656 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6200 files added (on-disk size: 19931.5 KB)
+0015.693 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6300 files added (on-disk size: 19931.5 KB)
+0015.732 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6400 files added (on-disk size: 19931.5 KB)
+0015.764 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6500 files added (on-disk size: 19931.5 KB)
+0015.782 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (35 MB, 22538 files batched, 1001 (6542) added so far); re-opening (prior size: 19931.5 KB)
+0017.188 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6600 files added (on-disk size: 41369.1 KB)
+0017.321 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6700 files added (on-disk size: 41369.1 KB)
+0017.351 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6800 files added (on-disk size: 41369.1 KB)
+0017.380 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 6900 files added (on-disk size: 41369.1 KB)
+0017.410 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7000 files added (on-disk size: 41369.1 KB)
+0017.439 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7100 files added (on-disk size: 41369.1 KB)
+0017.469 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7200 files added (on-disk size: 41369.1 KB)
+0017.505 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7300 files added (on-disk size: 41369.1 KB)
+0017.542 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7400 files added (on-disk size: 41369.1 KB)
+0017.580 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7500 files added (on-disk size: 41369.1 KB)
+0017.604 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.3 MB, 22538 files batched, 1001 (7543) added so far); re-opening (prior size: 41369.1 KB)
+0018.170 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7600 files added (on-disk size: 44813.2 KB)
+0018.222 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7700 files added (on-disk size: 44813.2 KB)
+0018.273 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7800 files added (on-disk size: 44813.2 KB)
+0018.319 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 7900 files added (on-disk size: 44813.2 KB)
+0018.366 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8000 files added (on-disk size: 44813.2 KB)
+0018.393 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8100 files added (on-disk size: 44813.2 KB)
+0018.439 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8200 files added (on-disk size: 44813.2 KB)
+0018.470 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8300 files added (on-disk size: 44813.2 KB)
+0018.512 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8400 files added (on-disk size: 44813.2 KB)
+0018.548 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8500 files added (on-disk size: 44813.2 KB)
+0018.569 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (11.6 MB, 22538 files batched, 1001 (8544) added so far); re-opening (prior size: 44813.2 KB)
+0019.225 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8600 files added (on-disk size: 49995.5 KB)
+0019.259 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8700 files added (on-disk size: 49995.5 KB)
+0019.295 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8800 files added (on-disk size: 49995.5 KB)
+0019.352 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 8900 files added (on-disk size: 49995.5 KB)
+0019.402 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9000 files added (on-disk size: 49995.5 KB)
+0019.452 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9100 files added (on-disk size: 49995.5 KB)
+0019.493 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9200 files added (on-disk size: 49995.5 KB)
+0019.521 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9300 files added (on-disk size: 49995.5 KB)
+0019.560 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9400 files added (on-disk size: 49995.5 KB)
+0019.604 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9500 files added (on-disk size: 49995.5 KB)
+0019.646 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (55.2 MB, 22538 files batched, 1001 (9545) added so far); re-opening (prior size: 49995.5 KB)
+0021.186 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9600 files added (on-disk size: 93784.1 KB)
+0021.215 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9700 files added (on-disk size: 93784.1 KB)
+0021.248 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9800 files added (on-disk size: 93784.1 KB)
+0021.292 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 9900 files added (on-disk size: 93784.1 KB)
+0021.344 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10000 files added (on-disk size: 93784.1 KB)
+0021.376 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10100 files added (on-disk size: 93784.1 KB)
+0021.411 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10200 files added (on-disk size: 93784.1 KB)
+0021.450 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10300 files added (on-disk size: 93784.1 KB)
+0021.502 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10400 files added (on-disk size: 93784.1 KB)
+0021.540 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10500 files added (on-disk size: 93784.1 KB)
+0021.565 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (16 MB, 22538 files batched, 1001 (10546) added so far); re-opening (prior size: 93784.1 KB)
+0022.614 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10600 files added (on-disk size: 97413.9 KB)
+0022.650 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10700 files added (on-disk size: 97413.9 KB)
+0022.685 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10800 files added (on-disk size: 97413.9 KB)
+0022.718 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 10900 files added (on-disk size: 97413.9 KB)
+0022.748 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11000 files added (on-disk size: 97413.9 KB)
+0022.779 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11100 files added (on-disk size: 97413.9 KB)
+0022.806 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11200 files added (on-disk size: 97413.9 KB)
+0022.841 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11300 files added (on-disk size: 97413.9 KB)
+0022.875 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11400 files added (on-disk size: 97413.9 KB)
+0022.904 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11500 files added (on-disk size: 97413.9 KB)
+0022.934 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.8 MB, 22538 files batched, 1001 (11547) added so far); re-opening (prior size: 97413.9 KB)
+0023.356 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11600 files added (on-disk size: 99519.6 KB)
+0023.381 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11700 files added (on-disk size: 99519.6 KB)
+0023.413 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11800 files added (on-disk size: 99519.6 KB)
+0023.455 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 11900 files added (on-disk size: 99519.6 KB)
+0023.490 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12000 files added (on-disk size: 99519.6 KB)
+0023.526 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12100 files added (on-disk size: 99519.6 KB)
+0023.564 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12200 files added (on-disk size: 99519.6 KB)
+0023.595 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12300 files added (on-disk size: 99519.6 KB)
+0023.632 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12400 files added (on-disk size: 99519.6 KB)
+0023.668 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12500 files added (on-disk size: 99519.6 KB)
+0023.696 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15.4 MB, 22538 files batched, 1001 (12548) added so far); re-opening (prior size: 99519.6 KB)
+0024.932 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12600 files added (on-disk size: 104494.8 KB)
+0024.960 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12700 files added (on-disk size: 104494.8 KB)
+0024.995 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12800 files added (on-disk size: 104494.8 KB)
+0025.024 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 12900 files added (on-disk size: 104494.8 KB)
+0025.056 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13000 files added (on-disk size: 104494.8 KB)
+0025.093 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13100 files added (on-disk size: 104494.8 KB)
+0025.131 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13200 files added (on-disk size: 104494.8 KB)
+0025.179 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13300 files added (on-disk size: 104494.8 KB)
+0025.213 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13400 files added (on-disk size: 104494.8 KB)
+0025.248 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13500 files added (on-disk size: 104494.8 KB)
+0025.269 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.2 MB, 22538 files batched, 1001 (13549) added so far); re-opening (prior size: 104494.8 KB)
+0026.971 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13600 files added (on-disk size: 109880.3 KB)
+0027.010 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13700 files added (on-disk size: 109880.3 KB)
+0027.045 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13800 files added (on-disk size: 109880.3 KB)
+0027.073 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 13900 files added (on-disk size: 109880.3 KB)
+0027.105 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14000 files added (on-disk size: 109880.3 KB)
+0027.142 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14100 files added (on-disk size: 109880.3 KB)
+0027.186 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14200 files added (on-disk size: 109880.3 KB)
+0027.323 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14300 files added (on-disk size: 109880.3 KB)
+0027.371 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14400 files added (on-disk size: 109880.3 KB)
+0027.410 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14500 files added (on-disk size: 109880.3 KB)
+0027.436 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.6 MB, 22538 files batched, 1001 (14550) added so far); re-opening (prior size: 109880.3 KB)
+0028.265 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14600 files added (on-disk size: 112412.8 KB)
+0028.297 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14700 files added (on-disk size: 112412.8 KB)
+0028.347 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14800 files added (on-disk size: 112412.8 KB)
+0028.380 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 14900 files added (on-disk size: 112412.8 KB)
+0028.420 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15000 files added (on-disk size: 112412.8 KB)
+0028.457 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15100 files added (on-disk size: 112412.8 KB)
+0028.487 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15200 files added (on-disk size: 112412.8 KB)
+0028.524 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15300 files added (on-disk size: 112412.8 KB)
+0028.569 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15400 files added (on-disk size: 112412.8 KB)
+0028.609 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15500 files added (on-disk size: 112412.8 KB)
+0028.643 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.9 MB, 22538 files batched, 1001 (15551) added so far); re-opening (prior size: 112412.8 KB)
+0029.362 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15600 files added (on-disk size: 115028.7 KB)
+0029.388 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15700 files added (on-disk size: 115028.7 KB)
+0029.422 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15800 files added (on-disk size: 115028.7 KB)
+0029.452 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 15900 files added (on-disk size: 115028.7 KB)
+0029.484 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16000 files added (on-disk size: 115028.7 KB)
+0029.519 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16100 files added (on-disk size: 115028.7 KB)
+0029.550 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16200 files added (on-disk size: 115028.7 KB)
+0029.584 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16300 files added (on-disk size: 115028.7 KB)
+0029.613 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16400 files added (on-disk size: 115028.7 KB)
+0029.647 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16500 files added (on-disk size: 115028.7 KB)
+0029.675 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.5 MB, 22538 files batched, 1001 (16552) added so far); re-opening (prior size: 115028.7 KB)
+0030.176 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16600 files added (on-disk size: 116471.9 KB)
+0030.208 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16700 files added (on-disk size: 116471.9 KB)
+0030.244 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16800 files added (on-disk size: 116471.9 KB)
+0030.279 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 16900 files added (on-disk size: 116471.9 KB)
+0030.318 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17000 files added (on-disk size: 116471.9 KB)
+0030.354 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17100 files added (on-disk size: 116471.9 KB)
+0030.391 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17200 files added (on-disk size: 116471.9 KB)
+0030.427 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17300 files added (on-disk size: 116471.9 KB)
+0030.461 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17400 files added (on-disk size: 116471.9 KB)
+0030.493 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17500 files added (on-disk size: 116471.9 KB)
+0030.524 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7.2 MB, 22538 files batched, 1001 (17553) added so far); re-opening (prior size: 116471.9 KB)
+0031.175 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17600 files added (on-disk size: 118385.8 KB)
+0031.218 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17700 files added (on-disk size: 118385.8 KB)
+0031.256 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17800 files added (on-disk size: 118385.8 KB)
+0031.308 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 17900 files added (on-disk size: 118385.8 KB)
+0031.355 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18000 files added (on-disk size: 118385.8 KB)
+0031.386 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18100 files added (on-disk size: 118385.8 KB)
+0031.421 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18200 files added (on-disk size: 118385.8 KB)
+0031.461 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18300 files added (on-disk size: 118385.8 KB)
+0031.492 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18400 files added (on-disk size: 118385.8 KB)
+0031.525 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18500 files added (on-disk size: 118385.8 KB)
+0031.549 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.6 MB, 22538 files batched, 1001 (18554) added so far); re-opening (prior size: 118385.8 KB)
+0032.652 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18600 files added (on-disk size: 126385.6 KB)
+0032.681 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18700 files added (on-disk size: 126385.6 KB)
+0032.718 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18800 files added (on-disk size: 126385.6 KB)
+0032.760 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 18900 files added (on-disk size: 126385.6 KB)
+0032.793 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19000 files added (on-disk size: 126385.6 KB)
+0032.824 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19100 files added (on-disk size: 126385.6 KB)
+0032.853 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19200 files added (on-disk size: 126385.6 KB)
+0032.889 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19300 files added (on-disk size: 126385.6 KB)
+0032.952 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19400 files added (on-disk size: 126385.6 KB)
+0032.989 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19500 files added (on-disk size: 126385.6 KB)
+0033.013 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.6 MB, 22538 files batched, 1001 (19555) added so far); re-opening (prior size: 126385.6 KB)
+0033.783 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19600 files added (on-disk size: 129127.2 KB)
+0033.825 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19700 files added (on-disk size: 129127.2 KB)
+0033.858 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19800 files added (on-disk size: 129127.2 KB)
+0033.900 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 19900 files added (on-disk size: 129127.2 KB)
+0033.925 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20000 files added (on-disk size: 129127.2 KB)
+0033.973 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20100 files added (on-disk size: 129127.2 KB)
+0034.009 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20200 files added (on-disk size: 129127.2 KB)
+0034.036 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20300 files added (on-disk size: 129127.2 KB)
+0034.071 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20400 files added (on-disk size: 129127.2 KB)
+0034.097 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20500 files added (on-disk size: 129127.2 KB)
+0034.126 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (21.2 MB, 22538 files batched, 1001 (20556) added so far); re-opening (prior size: 129127.2 KB)
+0035.207 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20600 files added (on-disk size: 140014.4 KB)
+0035.238 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20700 files added (on-disk size: 140014.4 KB)
+0035.268 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20800 files added (on-disk size: 140014.4 KB)
+0035.297 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 20900 files added (on-disk size: 140014.4 KB)
+0035.331 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21000 files added (on-disk size: 140014.4 KB)
+0035.363 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21100 files added (on-disk size: 140014.4 KB)
+0035.389 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21200 files added (on-disk size: 140014.4 KB)
+0035.419 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21300 files added (on-disk size: 140014.4 KB)
+0035.461 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21400 files added (on-disk size: 140014.4 KB)
+0035.487 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21500 files added (on-disk size: 140014.4 KB)
+0035.517 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (9.1 MB, 22538 files batched, 1001 (21557) added so far); re-opening (prior size: 140014.4 KB)
+0037.517 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21600 files added (on-disk size: 144555.6 KB)
+0038.251 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21700 files added (on-disk size: 144555.6 KB)
+0038.986 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21800 files added (on-disk size: 144555.6 KB)
+0039.915 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.9 MB, 244 (21801) files added so far); re-opening (prior size: 144555.6 KB)
+0041.565 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 21900 files added (on-disk size: 148218.3 KB)
+0041.732 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 22000 files added (on-disk size: 148218.3 KB)
+0041.923 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 22100 files added (on-disk size: 148218.3 KB)
+0041.989 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 22200 files added (on-disk size: 148218.3 KB)
+0042.129 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 22300 files added (on-disk size: 148218.3 KB)
+0042.223 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 22400 files added (on-disk size: 148218.3 KB)
+0042.303 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.tmp: 22500 files added (on-disk size: 148218.3 KB)
+0043.233 (0) Creating zip file manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.list-temp.tmp)
+0043.347 (0) Successfully created zip file manifest (size: 1977442)
+0044.783 (0) Created plugins zip (0) - 151438.1 KB in 44.3 s (3420.2 KB/s) (sha1: 9d22ea278f3d41d73fe99733e21768988c3bdbe4, sha256: d04c40c1bc4fd7baec6b10a4c1538eee847ffcce2123d4e8863b0e8ad5e4425a)
+0044.892 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0044.939 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d4771bb513157c1fc403cb1e73e772a7)
+0046.505 (0) Google Drive: quota usage: used=5490.7 MB, total=15360 MB, available=9869.3 MB
+0046.540 (0) Google Drive: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip: Attempting to upload to Google Drive (into folder id: 1cmNyxCE1o_IvcPeClcHU1EOPbRCbaMSx)
+0047.800 (0) Googledrive chunked upload: 0.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 57.5 / 74)
+0048.269 (0) Googledrive chunked upload: 2 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 57.6 / 74)
+0048.825 (0) Googledrive chunked upload: 4.7 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 57.6 / 74)
+0049.339 (0) Googledrive chunked upload: 10.1 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 57.6 / 74)
+0049.943 (0) Googledrive chunked upload: 21 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 57.6 / 74)
+0050.945 (0) Googledrive chunked upload: 42.6 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 57.6 / 74)
+0052.614 (0) Googledrive chunked upload: 85.9 % uploaded (133169152)
+0055.300 (0) Googledrive chunked upload: 100 % uploaded (133169152)
+0055.536 (0) Google Drive: OK: Archive backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip uploaded in 8.96 seconds
+0055.577 (0) Recording as successfully uploaded: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip
+0055.661 (0) Deleting local file: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip: OK
+0055.812 (0) Beginning creation of dump of themes (split every: 400 MB)
+0056.216 (0) Total entities for the zip file: 313 directories, 754 files (0 skipped as non-modified), 20.6 MB
+0056.276 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.tmp: 100 files added (on-disk size: 0 KB)
+0056.306 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.tmp: 200 files added (on-disk size: 0 KB)
+0056.368 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.tmp: 300 files added (on-disk size: 0 KB)
+0056.402 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.tmp: 400 files added (on-disk size: 0 KB)
+0056.447 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.tmp: 500 files added (on-disk size: 0 KB)
+0056.475 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.tmp: 600 files added (on-disk size: 0 KB)
+0056.560 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.tmp: 700 files added (on-disk size: 0 KB)
+0057.586 (0) Creating zip file manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.list-temp.tmp)
+0057.610 (0) Successfully created zip file manifest (size: 65589)
+0057.753 (0) Created themes zip (0) - 5997.1 KB in 1.8 s (3248.4 KB/s) (sha1: 9bab418d27d926e3d06423c4065391df5f4e41dc, sha256: b68b40dc59d30f88e99d8ae956151369457a0fba3c5b360ebe5fde761b4b708b)
+0057.836 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0057.854 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d4771bb513157c1fc403cb1e73e772a7)
+0058.193 (0) Google Drive: quota usage: used=5638.6 MB, total=15360 MB, available=9721.4 MB
+0058.214 (0) Google Drive: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip: Attempting to upload to Google Drive (into folder id: 1cmNyxCE1o_IvcPeClcHU1EOPbRCbaMSx)
+0059.302 (0) Googledrive chunked upload: 17.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 53.9 / 74)
+0059.699 (0) Googledrive chunked upload: 51.2 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 53.9 / 74)
+0061.696 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0061.771 (0) Google Drive: OK: Archive backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip uploaded in 3.54 seconds
+0061.793 (0) Recording as successfully uploaded: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip
+0061.828 (0) Deleting local file: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip: OK
+0061.885 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0061.898 (0) Looking for candidates to backup in: /home/l0012933/public_html/wp-content/uploads
+0061.927 (0) finding files: wc-logs: adding to list (1)
+0061.946 (0) finding files: elementor: adding to list (2)
+0061.963 (0) finding files: wpforms: adding to list (3)
+0061.979 (0) finding files: ur-logs: adding to list (4)
+0062.008 (0) finding files: ast-block-templates-json: adding to list (5)
+0062.020 (0) finding files: astra-sites: adding to list (6)
+0062.031 (0) finding files: astra-docs: adding to list (7)
+0062.044 (0) finding files: ai-builder: adding to list (8)
+0062.072 (0) finding files: ao_ccss: adding to list (9)
+0062.098 (0) finding files: woocommerce_uploads: adding to list (10)
+0062.115 (0) finding files: 2020: adding to list (11)
+0062.133 (0) finding files: woocommerce-placeholder.png: adding to list (12)
+0062.173 (0) finding files: smush-webp-test.png: adding to list (13)
+0062.189 (0) finding files: wp-staging: adding to list (14)
+0062.210 (0) finding files: ultimatemember: adding to list (15)
+0062.222 (0) finding files: woocommerce_transient_files: adding to list (16)
+0062.252 (0) finding files: 2024: adding to list (17)
+0062.271 (0) finding files: smush: adding to list (18)
+0062.287 (0) finding files: 2019: adding to list (19)
+0062.299 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0066.186 (0) Total entities for the zip file: 46 directories, 26980 files (0 skipped as non-modified), 2042 MB
+0066.209 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0066.264 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads.zip.tmp: 100 files added (on-disk size: 5.8 KB)
+0066.331 (0) [Warning] Se ha encontrado un archivo muy grande: uploads/wp-staging/backups/supercrazy.com.ar_20240521-121748_22ab4772f40c.wpstg (tamaño: 1240 MB)
+0066.353 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 132.3 MB added on this batch (1260.6 MB, 26980 files batched, 191 (192) added so far); re-opening (prior size: 5.8 KB)
+0110.783 (0) A useful amount of data was added after this amount of zip processing: 45.2 s (normalised: 4.7 s, rate: 28574.5 KB/s)
+0110.892 (0) Performance is good - will increase the amount of data we attempt to batch (time=45.175091981888, normalised_time=4.7428846246892, max_time=110.82989215851, data points known=1, old_max_bytes=138778345, new_max_bytes=209715200)
+0111.062 (0) Zip size is at/near split limit (870.4 MB / 400 MB) - bumping index (from: 0)
+0117.456 (0) Creating zip file manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads.zip.list-temp.tmp)
+0117.501 (0) Successfully created zip file manifest (size: 12458)
+0117.574 (0) Created uploads zip (0) - 891336.6 KB in 48.8 s (18256.5 KB/s) (checksums: sha1: ba63e5fd6dce4feacc59012fe52b2d90adb6fa2f, sha256: bf3a50ad4924ae20e18b40e5ea9b41ab14a73b5ad507a377d199fb6164aeeaf3)
+0117.743 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0117.770 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d4771bb513157c1fc403cb1e73e772a7)
+0118.111 (0) Google Drive: quota usage: used=5644.5 MB, total=15360 MB, available=9715.5 MB
+0118.156 (0) Google Drive: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads.zip: Attempting to upload to Google Drive (into folder id: 1cmNyxCE1o_IvcPeClcHU1EOPbRCbaMSx)
+0119.259 (0) Googledrive chunked upload: 0.1 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 59.8 / 76)
+0119.803 (0) Googledrive chunked upload: 0.3 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 59.8 / 76)
+0120.392 (0) Googledrive chunked upload: 0.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 59.8 / 76)
+0120.870 (0) Googledrive chunked upload: 1.7 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 59.8 / 76)
+0121.587 (0) Googledrive chunked upload: 3.6 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 59.8 / 76)
+0122.624 (0) Googledrive chunked upload: 7.2 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 59.8 / 76)
+0124.296 (0) Googledrive chunked upload: 14.6 % uploaded (133169152)
+0126.145 (0) Googledrive chunked upload: 21.9 % uploaded (200278016)
+0127.847 (0) Googledrive chunked upload: 29.3 % uploaded (267386880)
+0129.594 (0) Googledrive chunked upload: 36.6 % uploaded (334495744)
+0131.423 (0) Googledrive chunked upload: 44 % uploaded (401604608)
+0133.396 (0) Googledrive chunked upload: 51.4 % uploaded (468713472)
+0135.340 (0) Googledrive chunked upload: 58.7 % uploaded (535822336)
+0136.811 (0) Googledrive chunked upload: 66.1 % uploaded (602931200)
+0138.430 (0) Googledrive chunked upload: 73.4 % uploaded (670040064)
+0140.175 (0) Googledrive chunked upload: 80.8 % uploaded (737148928)
+0142.020 (0) Googledrive chunked upload: 88.1 % uploaded (804257792)
+0143.848 (0) Googledrive chunked upload: 95.5 % uploaded (871366656)
+0146.654 (0) Googledrive chunked upload: 100 % uploaded (871366656)
+0146.715 (0) Google Drive: OK: Archive backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads.zip uploaded in 28.51 seconds
+0146.746 (0) Recording as successfully uploaded: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads.zip
+0146.884 (0) Deleting local file: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads.zip: OK
+0146.924 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (193) files added so far); re-opening (prior size: 0 KB)
+0146.967 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 200 files added (on-disk size: 0.9 KB)
+0147.003 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 300 files added (on-disk size: 0.9 KB)
+0147.046 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 400 files added (on-disk size: 0.9 KB)
+0147.075 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 500 files added (on-disk size: 0.9 KB)
+0147.101 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 600 files added (on-disk size: 0.9 KB)
+0147.128 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 700 files added (on-disk size: 0.9 KB)
+0147.153 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 800 files added (on-disk size: 0.9 KB)
+0147.177 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 900 files added (on-disk size: 0.9 KB)
+0147.202 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1000 files added (on-disk size: 0.9 KB)
+0147.227 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1100 files added (on-disk size: 0.9 KB)
+0147.249 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (33.3 MB, 26980 files batched, 1001 (1194) added so far); re-opening (prior size: 0.9 KB)
+0147.766 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1200 files added (on-disk size: 34166.8 KB)
+0147.790 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1300 files added (on-disk size: 34166.8 KB)
+0147.838 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1400 files added (on-disk size: 34166.8 KB)
+0147.867 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1500 files added (on-disk size: 34166.8 KB)
+0147.892 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1600 files added (on-disk size: 34166.8 KB)
+0147.935 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1700 files added (on-disk size: 34166.8 KB)
+0147.969 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1800 files added (on-disk size: 34166.8 KB)
+0148.002 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 1900 files added (on-disk size: 34166.8 KB)
+0148.040 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2000 files added (on-disk size: 34166.8 KB)
+0148.066 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2100 files added (on-disk size: 34166.8 KB)
+0148.097 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (27.1 MB, 26980 files batched, 1001 (2195) added so far); re-opening (prior size: 34166.8 KB)
+0148.696 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2200 files added (on-disk size: 62009.8 KB)
+0148.730 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2300 files added (on-disk size: 62009.8 KB)
+0148.757 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2400 files added (on-disk size: 62009.8 KB)
+0148.785 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2500 files added (on-disk size: 62009.8 KB)
+0148.816 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2600 files added (on-disk size: 62009.8 KB)
+0148.844 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2700 files added (on-disk size: 62009.8 KB)
+0148.873 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2800 files added (on-disk size: 62009.8 KB)
+0148.906 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 2900 files added (on-disk size: 62009.8 KB)
+0148.937 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3000 files added (on-disk size: 62009.8 KB)
+0148.971 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3100 files added (on-disk size: 62009.8 KB)
+0148.996 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.7 MB, 26980 files batched, 1001 (3196) added so far); re-opening (prior size: 62009.8 KB)
+0149.555 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3200 files added (on-disk size: 91483.4 KB)
+0149.589 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3300 files added (on-disk size: 91483.4 KB)
+0149.611 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3400 files added (on-disk size: 91483.4 KB)
+0149.637 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3500 files added (on-disk size: 91483.4 KB)
+0149.662 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3600 files added (on-disk size: 91483.4 KB)
+0149.688 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3700 files added (on-disk size: 91483.4 KB)
+0149.715 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3800 files added (on-disk size: 91483.4 KB)
+0149.747 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 3900 files added (on-disk size: 91483.4 KB)
+0149.773 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4000 files added (on-disk size: 91483.4 KB)
+0149.796 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4100 files added (on-disk size: 91483.4 KB)
+0149.825 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.9 MB, 26980 files batched, 1001 (4197) added so far); re-opening (prior size: 91483.4 KB)
+0150.484 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4200 files added (on-disk size: 121128.6 KB)
+0150.507 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4300 files added (on-disk size: 121128.6 KB)
+0150.537 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4400 files added (on-disk size: 121128.6 KB)
+0150.563 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4500 files added (on-disk size: 121128.6 KB)
+0150.590 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4600 files added (on-disk size: 121128.6 KB)
+0150.612 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4700 files added (on-disk size: 121128.6 KB)
+0150.636 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4800 files added (on-disk size: 121128.6 KB)
+0150.665 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 4900 files added (on-disk size: 121128.6 KB)
+0150.694 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5000 files added (on-disk size: 121128.6 KB)
+0150.724 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5100 files added (on-disk size: 121128.6 KB)
+0150.752 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (29.9 MB, 26980 files batched, 1001 (5198) added so far); re-opening (prior size: 121128.6 KB)
+0151.363 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5200 files added (on-disk size: 151791.6 KB)
+0151.386 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5300 files added (on-disk size: 151791.6 KB)
+0151.412 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5400 files added (on-disk size: 151791.6 KB)
+0151.443 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5500 files added (on-disk size: 151791.6 KB)
+0151.467 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5600 files added (on-disk size: 151791.6 KB)
+0151.492 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5700 files added (on-disk size: 151791.6 KB)
+0151.528 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5800 files added (on-disk size: 151791.6 KB)
+0151.557 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 5900 files added (on-disk size: 151791.6 KB)
+0151.597 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6000 files added (on-disk size: 151791.6 KB)
+0151.624 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6100 files added (on-disk size: 151791.6 KB)
+0151.651 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (30.6 MB, 26980 files batched, 1001 (6199) added so far); re-opening (prior size: 151791.6 KB)
+0152.449 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6200 files added (on-disk size: 183213.5 KB)
+0152.476 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6300 files added (on-disk size: 183213.5 KB)
+0152.504 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6400 files added (on-disk size: 183213.5 KB)
+0152.531 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6500 files added (on-disk size: 183213.5 KB)
+0152.558 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6600 files added (on-disk size: 183213.5 KB)
+0152.580 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6700 files added (on-disk size: 183213.5 KB)
+0152.605 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6800 files added (on-disk size: 183213.5 KB)
+0152.630 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 6900 files added (on-disk size: 183213.5 KB)
+0152.657 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7000 files added (on-disk size: 183213.5 KB)
+0152.687 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7100 files added (on-disk size: 183213.5 KB)
+0152.714 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (26.4 MB, 26980 files batched, 1001 (7200) added so far); re-opening (prior size: 183213.5 KB)
+0154.120 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7200 files added (on-disk size: 210308.7 KB)
+0154.164 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7300 files added (on-disk size: 210308.7 KB)
+0154.190 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7400 files added (on-disk size: 210308.7 KB)
+0154.215 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7500 files added (on-disk size: 210308.7 KB)
+0154.236 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7600 files added (on-disk size: 210308.7 KB)
+0154.271 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7700 files added (on-disk size: 210308.7 KB)
+0154.298 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7800 files added (on-disk size: 210308.7 KB)
+0154.321 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 7900 files added (on-disk size: 210308.7 KB)
+0154.348 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8000 files added (on-disk size: 210308.7 KB)
+0154.376 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8100 files added (on-disk size: 210308.7 KB)
+0154.404 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8200 files added (on-disk size: 210308.7 KB)
+0154.421 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (27.3 MB, 26980 files batched, 1001 (8201) added so far); re-opening (prior size: 210308.7 KB)
+0155.361 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8300 files added (on-disk size: 238390.6 KB)
+0155.384 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8400 files added (on-disk size: 238390.6 KB)
+0155.418 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8500 files added (on-disk size: 238390.6 KB)
+0155.446 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8600 files added (on-disk size: 238390.6 KB)
+0155.480 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8700 files added (on-disk size: 238390.6 KB)
+0155.513 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8800 files added (on-disk size: 238390.6 KB)
+0155.543 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 8900 files added (on-disk size: 238390.6 KB)
+0155.578 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9000 files added (on-disk size: 238390.6 KB)
+0155.612 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9100 files added (on-disk size: 238390.6 KB)
+0155.636 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9200 files added (on-disk size: 238390.6 KB)
+0155.649 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (26.7 MB, 26980 files batched, 1001 (9202) added so far); re-opening (prior size: 238390.6 KB)
+0156.522 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9300 files added (on-disk size: 265817.8 KB)
+0156.547 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9400 files added (on-disk size: 265817.8 KB)
+0156.580 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9500 files added (on-disk size: 265817.8 KB)
+0156.619 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9600 files added (on-disk size: 265817.8 KB)
+0156.666 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9700 files added (on-disk size: 265817.8 KB)
+0156.762 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9800 files added (on-disk size: 265817.8 KB)
+0156.787 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 9900 files added (on-disk size: 265817.8 KB)
+0156.819 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10000 files added (on-disk size: 265817.8 KB)
+0156.852 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10100 files added (on-disk size: 265817.8 KB)
+0156.887 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10200 files added (on-disk size: 265817.8 KB)
+0156.902 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (29.2 MB, 26980 files batched, 1001 (10203) added so far); re-opening (prior size: 265817.8 KB)
+0157.951 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10300 files added (on-disk size: 295817.9 KB)
+0157.978 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10400 files added (on-disk size: 295817.9 KB)
+0158.020 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10500 files added (on-disk size: 295817.9 KB)
+0158.057 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10600 files added (on-disk size: 295817.9 KB)
+0158.083 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10700 files added (on-disk size: 295817.9 KB)
+0158.109 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10800 files added (on-disk size: 295817.9 KB)
+0158.136 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 10900 files added (on-disk size: 295817.9 KB)
+0158.172 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11000 files added (on-disk size: 295817.9 KB)
+0158.203 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11100 files added (on-disk size: 295817.9 KB)
+0158.235 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11200 files added (on-disk size: 295817.9 KB)
+0158.252 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (32.2 MB, 26980 files batched, 1001 (11204) added so far); re-opening (prior size: 295817.9 KB)
+0159.355 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11300 files added (on-disk size: 328864.8 KB)
+0159.378 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11400 files added (on-disk size: 328864.8 KB)
+0159.403 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11500 files added (on-disk size: 328864.8 KB)
+0159.430 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11600 files added (on-disk size: 328864.8 KB)
+0159.459 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11700 files added (on-disk size: 328864.8 KB)
+0159.486 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11800 files added (on-disk size: 328864.8 KB)
+0159.508 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 11900 files added (on-disk size: 328864.8 KB)
+0159.532 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12000 files added (on-disk size: 328864.8 KB)
+0159.561 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12100 files added (on-disk size: 328864.8 KB)
+0159.583 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12200 files added (on-disk size: 328864.8 KB)
+0159.595 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.3 MB, 26980 files batched, 1001 (12205) added so far); re-opening (prior size: 328864.8 KB)
+0160.588 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12300 files added (on-disk size: 357812 KB)
+0160.616 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12400 files added (on-disk size: 357812 KB)
+0160.643 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12500 files added (on-disk size: 357812 KB)
+0160.669 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12600 files added (on-disk size: 357812 KB)
+0160.699 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12700 files added (on-disk size: 357812 KB)
+0160.745 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12800 files added (on-disk size: 357812 KB)
+0160.771 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 12900 files added (on-disk size: 357812 KB)
+0160.800 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13000 files added (on-disk size: 357812 KB)
+0160.828 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13100 files added (on-disk size: 357812 KB)
+0160.859 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13200 files added (on-disk size: 357812 KB)
+0160.879 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (27.3 MB, 26980 files batched, 1001 (13206) added so far); re-opening (prior size: 357812 KB)
+0162.008 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13300 files added (on-disk size: 385886 KB)
+0162.057 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13400 files added (on-disk size: 385886 KB)
+0162.090 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13500 files added (on-disk size: 385886 KB)
+0162.126 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13600 files added (on-disk size: 385886 KB)
+0162.163 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13700 files added (on-disk size: 385886 KB)
+0162.192 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13800 files added (on-disk size: 385886 KB)
+0162.215 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.tmp: 13900 files added (on-disk size: 385886 KB)
+0162.237 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): possibly approaching split limit (21.1 MB, 731 (13937) files added so far); last ratio: 1; re-opening (prior size: 385886 KB)
+0163.569 (0) Zip size is at/near split limit (398 MB / 400 MB) - bumping index (from: 1)
+0168.846 (0) Creating zip file manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.list-temp.tmp)
+0169.909 (0) Successfully created zip file manifest (size: 737960)
+0171.359 (0) Created uploads zip (1) - 407510.8 KB in 47.7 s (8549.9 KB/s) (checksums: sha1: 335a8386f4209382176065366ac62aab10d1b20b, sha256: 231094e1800ec2b6dcece229b82c60d690605bdd12d615f42132e70225773032)
+0172.991 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0173.110 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d4771bb513157c1fc403cb1e73e772a7)
+0173.623 (0) Google Drive: quota usage: used=6514.9 MB, total=15360 MB, available=8845.1 MB
+0173.668 (0) Google Drive: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip: Attempting to upload to Google Drive (into folder id: 1cmNyxCE1o_IvcPeClcHU1EOPbRCbaMSx)
+0175.237 (0) Googledrive chunked upload: 0.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 61.3 / 78)
+0175.732 (0) Googledrive chunked upload: 0.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 61.4 / 78)
+0176.266 (0) Googledrive chunked upload: 1.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 61.4 / 78)
+0176.795 (0) Googledrive chunked upload: 3.8 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 61.4 / 78)
+0177.493 (0) Googledrive chunked upload: 7.8 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 61.4 / 78)
+0178.557 (0) Googledrive chunked upload: 15.8 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 61.4 / 78)
+0180.421 (0) Googledrive chunked upload: 31.9 % uploaded (133169152)
+0182.233 (0) Googledrive chunked upload: 48 % uploaded (200278016)
+0183.864 (0) Googledrive chunked upload: 64.1 % uploaded (267386880)
+0185.518 (0) Googledrive chunked upload: 80.2 % uploaded (334495744)
+0186.948 (0) Googledrive chunked upload: 96.2 % uploaded (401604608)
+0189.035 (0) Googledrive chunked upload: 100 % uploaded (401604608)
+0189.085 (0) Google Drive: OK: Archive backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip uploaded in 15.31 seconds
+0189.109 (0) Recording as successfully uploaded: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip
+0189.199 (0) Deleting local file: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip: OK
+0189.229 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (13938) files added so far); re-opening (prior size: 0 KB)
+0189.268 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14000 files added (on-disk size: 1.7 KB)
+0189.291 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14100 files added (on-disk size: 1.7 KB)
+0189.318 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14200 files added (on-disk size: 1.7 KB)
+0189.346 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14300 files added (on-disk size: 1.7 KB)
+0189.373 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14400 files added (on-disk size: 1.7 KB)
+0189.404 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14500 files added (on-disk size: 1.7 KB)
+0189.429 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14600 files added (on-disk size: 1.7 KB)
+0189.462 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14700 files added (on-disk size: 1.7 KB)
+0189.492 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14800 files added (on-disk size: 1.7 KB)
+0189.519 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 14900 files added (on-disk size: 1.7 KB)
+0189.546 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (31.2 MB, 26980 files batched, 1001 (14939) added so far); re-opening (prior size: 1.7 KB)
+0190.064 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15000 files added (on-disk size: 32000.5 KB)
+0190.089 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15100 files added (on-disk size: 32000.5 KB)
+0190.129 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15200 files added (on-disk size: 32000.5 KB)
+0190.162 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15300 files added (on-disk size: 32000.5 KB)
+0190.198 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15400 files added (on-disk size: 32000.5 KB)
+0190.231 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15500 files added (on-disk size: 32000.5 KB)
+0190.272 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15600 files added (on-disk size: 32000.5 KB)
+0190.297 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15700 files added (on-disk size: 32000.5 KB)
+0190.344 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15800 files added (on-disk size: 32000.5 KB)
+0190.379 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 15900 files added (on-disk size: 32000.5 KB)
+0190.399 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.1 MB, 26980 files batched, 1001 (15940) added so far); re-opening (prior size: 32000.5 KB)
+0190.890 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16000 files added (on-disk size: 60881.2 KB)
+0190.916 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16100 files added (on-disk size: 60881.2 KB)
+0190.945 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16200 files added (on-disk size: 60881.2 KB)
+0190.975 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16300 files added (on-disk size: 60881.2 KB)
+0191.003 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16400 files added (on-disk size: 60881.2 KB)
+0191.032 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16500 files added (on-disk size: 60881.2 KB)
+0191.074 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16600 files added (on-disk size: 60881.2 KB)
+0191.112 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16700 files added (on-disk size: 60881.2 KB)
+0191.138 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16800 files added (on-disk size: 60881.2 KB)
+0191.171 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 16900 files added (on-disk size: 60881.2 KB)
+0191.195 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (29 MB, 26980 files batched, 1001 (16941) added so far); re-opening (prior size: 60881.2 KB)
+0191.711 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17000 files added (on-disk size: 90621.4 KB)
+0191.747 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17100 files added (on-disk size: 90621.4 KB)
+0191.791 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17200 files added (on-disk size: 90621.4 KB)
+0191.825 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17300 files added (on-disk size: 90621.4 KB)
+0191.873 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17400 files added (on-disk size: 90621.4 KB)
+0191.908 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17500 files added (on-disk size: 90621.4 KB)
+0191.936 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17600 files added (on-disk size: 90621.4 KB)
+0191.967 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17700 files added (on-disk size: 90621.4 KB)
+0192.000 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17800 files added (on-disk size: 90621.4 KB)
+0192.033 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 17900 files added (on-disk size: 90621.4 KB)
+0192.084 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28 MB, 26980 files batched, 1001 (17942) added so far); re-opening (prior size: 90621.4 KB)
+0192.679 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18000 files added (on-disk size: 119375.1 KB)
+0192.731 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18100 files added (on-disk size: 119375.1 KB)
+0192.758 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18200 files added (on-disk size: 119375.1 KB)
+0192.787 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18300 files added (on-disk size: 119375.1 KB)
+0192.817 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18400 files added (on-disk size: 119375.1 KB)
+0192.843 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18500 files added (on-disk size: 119375.1 KB)
+0192.877 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18600 files added (on-disk size: 119375.1 KB)
+0192.903 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18700 files added (on-disk size: 119375.1 KB)
+0192.937 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18800 files added (on-disk size: 119375.1 KB)
+0192.965 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 18900 files added (on-disk size: 119375.1 KB)
+0192.988 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.4 MB, 26980 files batched, 1001 (18943) added so far); re-opening (prior size: 119375.1 KB)
+0193.645 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19000 files added (on-disk size: 148542.5 KB)
+0193.691 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19100 files added (on-disk size: 148542.5 KB)
+0193.735 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19200 files added (on-disk size: 148542.5 KB)
+0193.766 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19300 files added (on-disk size: 148542.5 KB)
+0193.802 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19400 files added (on-disk size: 148542.5 KB)
+0193.829 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19500 files added (on-disk size: 148542.5 KB)
+0193.857 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19600 files added (on-disk size: 148542.5 KB)
+0193.887 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19700 files added (on-disk size: 148542.5 KB)
+0193.921 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19800 files added (on-disk size: 148542.5 KB)
+0193.952 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 19900 files added (on-disk size: 148542.5 KB)
+0193.976 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.6 MB, 26980 files batched, 1001 (19944) added so far); re-opening (prior size: 148542.5 KB)
+0194.651 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20000 files added (on-disk size: 177874.7 KB)
+0194.676 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20100 files added (on-disk size: 177874.7 KB)
+0194.700 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20200 files added (on-disk size: 177874.7 KB)
+0194.731 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20300 files added (on-disk size: 177874.7 KB)
+0194.766 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20400 files added (on-disk size: 177874.7 KB)
+0194.800 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20500 files added (on-disk size: 177874.7 KB)
+0194.834 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20600 files added (on-disk size: 177874.7 KB)
+0194.877 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20700 files added (on-disk size: 177874.7 KB)
+0194.905 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20800 files added (on-disk size: 177874.7 KB)
+0194.938 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 20900 files added (on-disk size: 177874.7 KB)
+0194.965 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (26.2 MB, 26980 files batched, 1001 (20945) added so far); re-opening (prior size: 177874.7 KB)
+0195.674 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21000 files added (on-disk size: 204820.4 KB)
+0195.704 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21100 files added (on-disk size: 204820.4 KB)
+0195.729 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21200 files added (on-disk size: 204820.4 KB)
+0195.759 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21300 files added (on-disk size: 204820.4 KB)
+0195.803 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21400 files added (on-disk size: 204820.4 KB)
+0195.834 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21500 files added (on-disk size: 204820.4 KB)
+0195.872 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21600 files added (on-disk size: 204820.4 KB)
+0195.910 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21700 files added (on-disk size: 204820.4 KB)
+0195.947 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21800 files added (on-disk size: 204820.4 KB)
+0195.978 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 21900 files added (on-disk size: 204820.4 KB)
+0195.998 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (26.5 MB, 26980 files batched, 1001 (21946) added so far); re-opening (prior size: 204820.4 KB)
+0196.716 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22000 files added (on-disk size: 232006 KB)
+0196.765 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22100 files added (on-disk size: 232006 KB)
+0196.806 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22200 files added (on-disk size: 232006 KB)
+0196.832 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22300 files added (on-disk size: 232006 KB)
+0196.876 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22400 files added (on-disk size: 232006 KB)
+0196.920 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22500 files added (on-disk size: 232006 KB)
+0196.950 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22600 files added (on-disk size: 232006 KB)
+0196.981 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22700 files added (on-disk size: 232006 KB)
+0197.009 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22800 files added (on-disk size: 232006 KB)
+0197.047 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 22900 files added (on-disk size: 232006 KB)
+0197.079 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (34.1 MB, 26980 files batched, 1001 (22947) added so far); re-opening (prior size: 232006 KB)
+0198.050 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23000 files added (on-disk size: 267011 KB)
+0198.080 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23100 files added (on-disk size: 267011 KB)
+0198.106 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23200 files added (on-disk size: 267011 KB)
+0198.133 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23300 files added (on-disk size: 267011 KB)
+0198.156 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23400 files added (on-disk size: 267011 KB)
+0198.178 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23500 files added (on-disk size: 267011 KB)
+0198.210 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23600 files added (on-disk size: 267011 KB)
+0198.235 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23700 files added (on-disk size: 267011 KB)
+0198.265 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23800 files added (on-disk size: 267011 KB)
+0198.290 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 23900 files added (on-disk size: 267011 KB)
+0198.315 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (30.1 MB, 26980 files batched, 1001 (23948) added so far); re-opening (prior size: 267011 KB)
+0199.175 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24000 files added (on-disk size: 297933.6 KB)
+0199.205 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24100 files added (on-disk size: 297933.6 KB)
+0199.235 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24200 files added (on-disk size: 297933.6 KB)
+0199.262 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24300 files added (on-disk size: 297933.6 KB)
+0199.289 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24400 files added (on-disk size: 297933.6 KB)
+0199.311 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24500 files added (on-disk size: 297933.6 KB)
+0199.339 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24600 files added (on-disk size: 297933.6 KB)
+0199.364 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24700 files added (on-disk size: 297933.6 KB)
+0199.390 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24800 files added (on-disk size: 297933.6 KB)
+0199.417 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 24900 files added (on-disk size: 297933.6 KB)
+0199.444 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (27.3 MB, 26980 files batched, 1001 (24949) added so far); re-opening (prior size: 297933.6 KB)
+0201.372 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25000 files added (on-disk size: 325940.7 KB)
+0201.397 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25100 files added (on-disk size: 325940.7 KB)
+0201.428 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25200 files added (on-disk size: 325940.7 KB)
+0201.456 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25300 files added (on-disk size: 325940.7 KB)
+0201.492 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25400 files added (on-disk size: 325940.7 KB)
+0201.515 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25500 files added (on-disk size: 325940.7 KB)
+0201.539 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25600 files added (on-disk size: 325940.7 KB)
+0201.567 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25700 files added (on-disk size: 325940.7 KB)
+0201.597 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25800 files added (on-disk size: 325940.7 KB)
+0201.625 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 25900 files added (on-disk size: 325940.7 KB)
+0201.643 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (28.5 MB, 26980 files batched, 1001 (25950) added so far); re-opening (prior size: 325940.7 KB)
+0202.530 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26000 files added (on-disk size: 355144.3 KB)
+0202.563 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26100 files added (on-disk size: 355144.3 KB)
+0202.590 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26200 files added (on-disk size: 355144.3 KB)
+0202.618 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26300 files added (on-disk size: 355144.3 KB)
+0202.645 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26400 files added (on-disk size: 355144.3 KB)
+0202.675 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26500 files added (on-disk size: 355144.3 KB)
+0202.712 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26600 files added (on-disk size: 355144.3 KB)
+0202.749 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26700 files added (on-disk size: 355144.3 KB)
+0202.779 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26800 files added (on-disk size: 355144.3 KB)
+0202.809 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.tmp: 26900 files added (on-disk size: 355144.3 KB)
+0202.842 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (37.7 MB, 26980 files batched, 1001 (26951) added so far); re-opening (prior size: 355144.3 KB)
+0205.496 (0) Creating zip file manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.list-temp.tmp)
+0207.155 (0) Successfully created zip file manifest (size: 698640)
+0209.808 (0) Created uploads zip (2) - 394544.7 KB in 37.6 s (10494.3 KB/s) (sha1: cb8528fe2d28c40795b0645445a90a039df6e16f, sha256: e457b4284ae032e31e2ee753fe8d50c66512830b0b807d161c688875e863e8ba)
+0209.875 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0209.887 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d4771bb513157c1fc403cb1e73e772a7)
+0210.197 (0) Google Drive: quota usage: used=6912.9 MB, total=15360 MB, available=8447.1 MB
+0210.217 (0) Google Drive: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip: Attempting to upload to Google Drive (into folder id: 1cmNyxCE1o_IvcPeClcHU1EOPbRCbaMSx)
+0211.165 (0) Googledrive chunked upload: 0.3 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 55.3 / 78)
+0211.495 (0) Googledrive chunked upload: 0.8 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 55.3 / 80)
+0211.829 (0) Googledrive chunked upload: 1.8 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 55.3 / 80)
+0212.278 (0) Googledrive chunked upload: 3.9 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 55.3 / 80)
+0212.816 (0) Googledrive chunked upload: 8 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 55.3 / 80)
+0213.620 (0) Googledrive chunked upload: 16.4 % uploaded (66060288 - increasing chunk size to 65536 KB - memory usage: 55.3 / 80)
+0215.429 (0) Googledrive chunked upload: 33 % uploaded (133169152)
+0217.060 (0) Googledrive chunked upload: 49.6 % uploaded (200278016)
+0218.824 (0) Googledrive chunked upload: 66.2 % uploaded (267386880)
+0220.467 (0) Googledrive chunked upload: 82.8 % uploaded (334495744)
+0221.994 (0) Googledrive chunked upload: 99.4 % uploaded (401604608)
+0224.052 (0) Googledrive chunked upload: 100 % uploaded (401604608)
+0224.094 (0) Google Drive: OK: Archive backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip uploaded in 13.86 seconds
+0224.113 (0) Recording as successfully uploaded: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip
+0224.224 (0) Deleting local file: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip: OK
+0224.270 (0) Beginning creation of dump of mu-plugins (split every: 400 MB)
+0224.305 (0) Total entities for the zip file: 1 directories, 2 files (0 skipped as non-modified), 0 MB
+0224.333 (0) Creating zip file manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-mu-plugins.zip.list-temp.tmp)
+0224.352 (0) Successfully created zip file manifest (size: 118)
+0224.408 (0) Created mu-plugins zip (0) - 4.9 KB in 0.1 s (47.7 KB/s) (sha1: 6cc221b1c611b385c55b325748487077aadfc4ea, sha256: c93832d4cb2c4d21f290171b2145913e4992332d0008b75069615f98e436fad8)
+0224.451 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0224.467 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d4771bb513157c1fc403cb1e73e772a7)
+0224.784 (0) Google Drive: quota usage: used=7298.2 MB, total=15360 MB, available=8061.8 MB
+0224.812 (0) Google Drive: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-mu-plugins.zip: Attempting to upload to Google Drive (into folder id: 1cmNyxCE1o_IvcPeClcHU1EOPbRCbaMSx)
+0227.050 (0) Googledrive chunked upload: 100 % uploaded
+0227.105 (0) Google Drive: OK: Archive backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-mu-plugins.zip uploaded in 2.26 seconds
+0227.124 (0) Recording as successfully uploaded: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-mu-plugins.zip
+0227.154 (0) Deleting local file: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-mu-plugins.zip: OK
+0227.216 (0) Beginning backup of other directories found in the content directory (index: 0)
+0227.233 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0227.248 (0) Looking for candidates to backup in: /home/l0012933/public_html/wp-content
+0227.260 (0) finding files: index.php: adding to list (1)
+0227.273 (0) finding files: uploads: skipping: this is the uploads directory
+0227.286 (0) finding files: jetpack-waf: adding to list (2)
+0227.304 (0) finding files: themes: skipping: this is the themes directory
+0227.316 (0) finding files: wp-cache-config.php: adding to list (3)
+0227.334 (0) finding files: updraft: skipping: this is the updraft directory
+0227.350 (0) finding files: object-cache.php: adding to list (4)
+0227.366 (0) finding files: w3tc-config: adding to list (5)
+0227.376 (0) finding files: upgrade: skipping: excluded by options
+0227.398 (0) finding files: .litespeed_conf.dat: adding to list (6)
+0227.429 (0) finding files: autoptimize_404_handler.php: adding to list (7)
+0227.450 (0) finding files: plugins: skipping: this is the plugins directory
+0227.479 (0) finding files: languages: adding to list (8)
+0227.513 (0) finding files: cache: skipping: excluded by options
+0227.557 (0) finding files: upgrade-temp-backup: adding to list (9)
+0227.585 (0) finding files: mu-plugins: skipping: this is the mu-plugins directory
+0227.614 (0) finding files: smush-webp: adding to list (10)
+0228.987 (0) Total entities for the zip file: 540 directories, 3334 files (0 skipped as non-modified), 104.1 MB
+0229.012 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 100 files added (on-disk size: 0 KB)
+0229.045 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 200 files added (on-disk size: 0 KB)
+0229.075 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 300 files added (on-disk size: 0 KB)
+0229.119 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 400 files added (on-disk size: 0 KB)
+0229.152 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 500 files added (on-disk size: 0 KB)
+0229.190 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 600 files added (on-disk size: 0 KB)
+0229.226 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 700 files added (on-disk size: 0 KB)
+0229.260 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 800 files added (on-disk size: 0 KB)
+0229.292 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 900 files added (on-disk size: 0 KB)
+0229.324 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1000 files added (on-disk size: 0 KB)
+0229.338 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (61.7 MB, 3334 files batched, 1001 (1001) added so far); re-opening (prior size: 0 KB)
+0231.753 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1100 files added (on-disk size: 44271.2 KB)
+0231.815 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1200 files added (on-disk size: 44271.2 KB)
+0231.879 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1300 files added (on-disk size: 44271.2 KB)
+0231.943 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1400 files added (on-disk size: 44271.2 KB)
+0231.995 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1500 files added (on-disk size: 44271.2 KB)
+0232.041 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1600 files added (on-disk size: 44271.2 KB)
+0232.086 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1700 files added (on-disk size: 44271.2 KB)
+0232.123 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1800 files added (on-disk size: 44271.2 KB)
+0232.165 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 1900 files added (on-disk size: 44271.2 KB)
+0232.206 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2000 files added (on-disk size: 44271.2 KB)
+0232.225 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (17.3 MB, 3334 files batched, 1001 (2002) added so far); re-opening (prior size: 44271.2 KB)
+0234.103 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2100 files added (on-disk size: 51351.8 KB)
+0234.967 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2200 files added (on-disk size: 51351.8 KB)
+0236.760 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (2 MB, 199 (2201) files added so far); re-opening (prior size: 51351.8 KB)
+0238.059 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2300 files added (on-disk size: 51937.1 KB)
+0238.292 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2400 files added (on-disk size: 51937.1 KB)
+0238.398 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2500 files added (on-disk size: 51937.1 KB)
+0238.554 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2600 files added (on-disk size: 51937.1 KB)
+0238.721 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2700 files added (on-disk size: 51937.1 KB)
+0238.856 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2800 files added (on-disk size: 51937.1 KB)
+0238.979 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 2900 files added (on-disk size: 51937.1 KB)
+0239.060 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 3000 files added (on-disk size: 51937.1 KB)
+0239.163 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 3100 files added (on-disk size: 51937.1 KB)
+0239.341 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 3200 files added (on-disk size: 51937.1 KB)
+0239.460 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (22.7 MB, 3334 files batched, 1001 (3202) added so far); re-opening (prior size: 51937.1 KB)
+0241.394 (0) Zip: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.tmp: 3300 files added (on-disk size: 61116.5 KB)
+0241.731 (0) Creating zip file manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.list-temp.tmp)
+0241.880 (0) Successfully created zip file manifest (size: 330041)
+0242.653 (0) Created others zip (0) - 61261.7 KB in 15 s (4086 KB/s) (sha1: c29c401d5fddc84f1d76a6ad305d8dffc9cee0ad, sha256: f402a5193539feb9850e5a901feae347125d86d7b1c82f98d13dcaaa609641f5)
+0242.815 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0242.857 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d4771bb513157c1fc403cb1e73e772a7)
+0243.209 (0) Google Drive: quota usage: used=7298.2 MB, total=15360 MB, available=8061.8 MB
+0243.261 (0) Google Drive: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip: Attempting to upload to Google Drive (into folder id: 1cmNyxCE1o_IvcPeClcHU1EOPbRCbaMSx)
+0244.255 (0) Googledrive chunked upload: 1.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 54.4 / 76)
+0244.776 (0) Googledrive chunked upload: 5 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 54.4 / 76)
+0245.293 (0) Googledrive chunked upload: 11.7 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 54.4 / 76)
+0245.806 (0) Googledrive chunked upload: 25.1 % uploaded (15728640 - increasing chunk size to 16384 KB - memory usage: 54.4 / 76)
+0246.411 (0) Googledrive chunked upload: 51.8 % uploaded (32505856 - increasing chunk size to 32768 KB - memory usage: 54.4 / 76)
+0249.095 (0) Googledrive chunked upload: 100 % uploaded (32505856)
+0249.224 (0) Google Drive: OK: Archive backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip uploaded in 5.93 seconds
+0249.266 (0) Recording as successfully uploaded: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip
+0249.367 (0) Deleting local file: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip: OK
+0249.539 (0) Saving backup status to database (elements: 12)
+0249.633 (0) Beginning creation of database dump (WordPress DB)
+0249.704 (0) SQL compatibility mode is: NO_ENGINE_SUBSTITUTION
+0250.047 (0) Table wp_options: Total expected rows (approximate): 1346
+0250.361 (0) Table wp_options: Rows added in this batch (next record: 312620): 1399 (uncompressed bytes in this segment=7364348) in 0.38 seconds
+0250.559 (0) Table wp_options: finishing file(s) (2, 776.6 KB)
+0250.823 (0) Table wp_users: Total expected rows (via COUNT): 4
+0250.870 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0250.969 (0) Table wp_users: Rows added in this batch (next record: 5): 4 (uncompressed bytes in this segment=1948) in 0.15 seconds
+0251.172 (0) Table wp_users: finishing file(s) (2, 0.8 KB)
+0251.342 (0) Table wp_usermeta: Total expected rows (via COUNT): 148
+0251.376 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0251.495 (0) Table wp_usermeta: Rows added in this batch (next record: 382): 148 (uncompressed bytes in this segment=431498) in 0.21 seconds
+0251.636 (0) Table wp_usermeta: finishing file(s) (2, 31.8 KB)
+0251.811 (0) Table wp_actionscheduler_actions: Total expected rows (via COUNT): 182
+0251.866 (0) Table is relatively small; fetch_rows will thus be: 250 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0251.919 (0) Table wp_actionscheduler_actions: Rows added in this batch (next record: 24103): 182 (uncompressed bytes in this segment=72394) in 0.16 seconds
+0252.257 (0) Table wp_actionscheduler_actions: finishing file(s) (2, 6.1 KB)
+0252.320 (0) Table wp_actionscheduler_claims: Total expected rows (via COUNT): 0
+0252.341 (0) Table wp_actionscheduler_claims: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=623) in 0.02 seconds
+0252.389 (0) Table wp_actionscheduler_claims: finishing file(s) (2, 0.4 KB)
+0252.429 (0) Table wp_actionscheduler_groups: Total expected rows (via COUNT): 8
+0252.439 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0252.466 (0) Table wp_actionscheduler_groups: Rows added in this batch (next record: 8): 8 (uncompressed bytes in this segment=910) in 0.04 seconds
+0252.543 (0) Table wp_actionscheduler_groups: finishing file(s) (2, 0.5 KB)
+0252.591 (0) Table wp_actionscheduler_logs: Total expected rows (via COUNT): 541
+0252.632 (0) Table wp_actionscheduler_logs: Rows added in this batch (next record: 72282): 541 (uncompressed bytes in this segment=55901) in 0.04 seconds
+0252.686 (0) Table wp_actionscheduler_logs: finishing file(s) (2, 6.1 KB)
+0252.798 (0) Table wp_commentmeta: Total expected rows (via COUNT): 0
+0252.835 (0) Table wp_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=731) in 0.06 seconds
+0252.904 (0) Table wp_commentmeta: finishing file(s) (2, 0.4 KB)
+0252.951 (0) Table wp_comments: Total expected rows (via COUNT): 5
+0252.963 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0252.997 (0) Table wp_comments: Rows added in this batch (next record: 8): 5 (uncompressed bytes in this segment=3077) in 0.05 seconds
+0253.031 (0) Table wp_comments: finishing file(s) (2, 0.8 KB)
+0253.072 (0) Table wp_dgwt_wcas_stats: Total expected rows (via COUNT): 0
+0253.106 (0) Table wp_dgwt_wcas_stats: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=797) in 0.04 seconds
+0253.161 (0) Table wp_dgwt_wcas_stats: finishing file(s) (2, 0.4 KB)
+0253.215 (0) Table wp_e_notes: Total expected rows (via COUNT): 0
+0253.237 (0) Table wp_e_notes: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2203) in 0.04 seconds
+0253.308 (0) Table wp_e_notes: finishing file(s) (2, 0.8 KB)
+0253.357 (0) Table wp_e_notes_users_relations: Total expected rows (via COUNT): 0
+0253.369 (0) Table wp_e_notes_users_relations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=893) in 0.02 seconds
+0253.407 (0) Table wp_e_notes_users_relations: finishing file(s) (2, 0.5 KB)
+0253.442 (0) Table wp_links: Total expected rows (via COUNT): 0
+0253.454 (0) Table wp_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1460) in 0.02 seconds
+0253.497 (0) Table wp_links: finishing file(s) (2, 0.5 KB)
+0253.667 (0) Table wp_postmeta: Total expected rows (approximate): 150300
+0253.701 (0) [Warning] La tabla wp_postmeta tiene muchas filas (150300) - esperamos que tu proveedor de alojamiento web te proporcione los recursos suficientes para volcar esa tabla en la copia de seguridad. Si no, necesitarás eliminar datos de esta tabla, o contactar con tu empresa de alojamiento para solicitar más recursos.
+0255.141 (0) Table wp_postmeta: Rows added in this batch (next record: 320477): 163088 (uncompressed bytes in this segment=27913913) in 1.61 seconds
+0255.184 (0) The scheduled resumption is within 45 seconds - will reschedule
+0255.213 (0) Rescheduling resumption 1: moving to 345 seconds from now (1729177574)
+0255.256 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 300 + 45 = 345
+0255.306 (0) Table wp_postmeta: finishing file(s) (2, 2709.3 KB)
+0255.376 (0) Table wp_posts: Total expected rows (approximate): 13197
+0255.929 (0) Table wp_posts: Rows added in this batch (next record: 23956): 13016 (uncompressed bytes in this segment=8992930) in 0.59 seconds
+0256.005 (0) Table wp_posts: finishing file(s) (2, 895.9 KB)
+0256.051 (0) Table wp_term_relationships: Total expected rows (approximate): 24822
+0256.188 (0) Table wp_term_relationships: Rows added in this batch (next record: 100000): 24571 (uncompressed bytes in this segment=430194) in 0.14 seconds
+0256.241 (0) Table wp_term_relationships: finishing file(s) (2, 61.8 KB)
+0256.331 (0) Table wp_term_taxonomy: Total expected rows (via COUNT): 374
+0256.353 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0256.389 (0) Table wp_term_taxonomy: Rows added in this batch (next record: 389): 374 (uncompressed bytes in this segment=15712) in 0.08 seconds
+0256.467 (0) Table wp_term_taxonomy: finishing file(s) (2, 3.4 KB)
+0256.545 (0) Table wp_termmeta: Total expected rows (approximate): 1224
+0256.607 (0) Table wp_termmeta: Rows added in this batch (next record: 1244): 1224 (uncompressed bytes in this segment=43575) in 0.10 seconds
+0256.714 (0) Table wp_termmeta: finishing file(s) (2, 7.4 KB)
+0256.765 (0) Table wp_terms: Total expected rows (via COUNT): 374
+0256.788 (0) Table is relatively small; fetch_rows will thus be: 500 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0256.828 (0) Table wp_terms: Rows added in this batch (next record: 389): 374 (uncompressed bytes in this segment=17795) in 0.07 seconds
+0256.886 (0) Table wp_terms: finishing file(s) (2, 5.8 KB)
+0256.926 (0) Table wp_wc_category_lookup: Total expected rows (approximate): 875
+0256.959 (0) Table wp_wc_category_lookup: Rows added in this batch (next record: 1000): 875 (uncompressed bytes in this segment=11341) in 0.04 seconds
+0257.012 (0) Table wp_wc_category_lookup: finishing file(s) (2, 2.9 KB)
+0257.058 (0) Table wp_wc_product_meta_lookup: Total expected rows (approximate): 13261
+0257.286 (0) Table wp_wc_product_meta_lookup: Rows added in this batch (next record: 15786): 13214 (uncompressed bytes in this segment=1455583) in 0.23 seconds
+0257.356 (0) Table wp_wc_product_meta_lookup: finishing file(s) (2, 135.4 KB)
+0257.460 (0) Table wp_wc_reserved_stock: Total expected rows (approximate): 0
+0257.507 (0) Table wp_wc_reserved_stock: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=657) in 0.06 seconds
+0257.591 (0) Table wp_wc_reserved_stock: finishing file(s) (2, 0.4 KB)
+0257.684 (0) Table wp_wc_tax_rate_classes: Total expected rows (via COUNT): 2
+0257.699 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0257.782 (0) Table wp_wc_tax_rate_classes: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=854) in 0.10 seconds
+0257.890 (0) Table wp_wc_tax_rate_classes: finishing file(s) (2, 0.4 KB)
+0258.022 (0) Table wp_woocommerce_order_itemmeta: Total expected rows (via COUNT): 45
+0258.051 (0) Table is relatively small; fetch_rows will thus be: 50 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0258.110 (0) Table wp_woocommerce_order_itemmeta: Rows added in this batch (next record: 63): 45 (uncompressed bytes in this segment=2539) in 0.14 seconds
+0258.278 (0) Table wp_woocommerce_order_itemmeta: finishing file(s) (2, 0.8 KB)
+0258.385 (0) Table wp_woocommerce_payment_tokenmeta: Total expected rows (via COUNT): 0
+0258.443 (0) Table wp_woocommerce_payment_tokenmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=834) in 0.10 seconds
+0258.572 (0) Table wp_woocommerce_payment_tokenmeta: finishing file(s) (2, 0.4 KB)
+0258.632 (0) Table wp_cartflows_ca_cart_abandonment: Total expected rows (approximate): 3
+0258.728 (0) Table wp_cartflows_ca_cart_abandonment: Rows added in this batch (next record: 1000): 3 (uncompressed bytes in this segment=5655) in 0.10 seconds
+0258.842 (0) Table wp_cartflows_ca_cart_abandonment: finishing file(s) (2, 1.3 KB)
+0258.893 (0) Table wp_cartflows_ca_email_history: Total expected rows (via COUNT): 0
+0258.934 (0) Table wp_cartflows_ca_email_history: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=881) in 0.04 seconds
+0258.997 (0) Table wp_cartflows_ca_email_history: finishing file(s) (2, 0.4 KB)
+0259.057 (0) Table wp_cartflows_ca_email_templates: Total expected rows (via COUNT): 3
+0259.086 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0259.144 (0) Table wp_cartflows_ca_email_templates: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=2820) in 0.09 seconds
+0259.310 (0) Table wp_cartflows_ca_email_templates: finishing file(s) (2, 1.2 KB)
+0259.520 (0) Table wp_cartflows_ca_email_templates_meta: Total expected rows (via COUNT): 18
+0259.540 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0259.556 (0) Table wp_cartflows_ca_email_templates_meta: Rows added in this batch (next record: 18): 18 (uncompressed bytes in this segment=1546) in 0.07 seconds
+0259.689 (0) Table wp_cartflows_ca_email_templates_meta: finishing file(s) (2, 0.6 KB)
+0259.782 (0) Table wp_e_events: Total expected rows (via COUNT): 0
+0259.878 (0) Table wp_e_events: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=547) in 0.11 seconds
+0259.994 (0) Table wp_e_events: finishing file(s) (2, 0.4 KB)
+0260.084 (0) Table wp_e_submissions: Total expected rows (via COUNT): 0
+0260.133 (0) Table wp_e_submissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2474) in 0.06 seconds
+0260.233 (0) Table wp_e_submissions: finishing file(s) (2, 0.7 KB)
+0260.295 (0) Table wp_e_submissions_actions_log: Total expected rows (via COUNT): 0
+0260.313 (0) Table wp_e_submissions_actions_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1331) in 0.03 seconds
+0260.396 (0) Table wp_e_submissions_actions_log: finishing file(s) (2, 0.5 KB)
+0260.544 (0) Table wp_e_submissions_values: Total expected rows (via COUNT): 0
+0260.596 (0) Table wp_e_submissions_values: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=760) in 0.08 seconds
+0260.724 (0) Table wp_e_submissions_values: finishing file(s) (2, 0.4 KB)
+0260.860 (0) Table wp_ev_claves: Total expected rows (via COUNT): 0
+0260.898 (0) Table wp_ev_claves: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=598) in 0.05 seconds
+0261.016 (0) Table wp_ev_claves: finishing file(s) (2, 0.4 KB)
+0261.094 (0) Table wp_icl_string_translations: Total expected rows (approximate): 3386
+0261.240 (0) Table wp_icl_string_translations: Rows added in this batch (next record: 3386): 3386 (uncompressed bytes in this segment=317185) in 0.15 seconds
+0261.332 (0) Table wp_icl_string_translations: finishing file(s) (2, 67.7 KB)
+0261.428 (0) Table wp_icl_strings: Total expected rows (approximate): 1700
+0261.487 (0) Table wp_icl_strings: Rows added in this batch (next record: 1700): 1700 (uncompressed bytes in this segment=175117) in 0.06 seconds
+0261.611 (0) Table wp_icl_strings: finishing file(s) (2, 62.8 KB)
+0261.699 (0) Table wp_jetpack_sync_queue: Total expected rows (via COUNT): 4
+0261.719 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0261.787 (0) Table wp_jetpack_sync_queue: Rows added in this batch (next record: 5214): 4 (uncompressed bytes in this segment=6080) in 0.12 seconds
+0261.911 (0) Table wp_jetpack_sync_queue: finishing file(s) (2, 1.8 KB)
+0261.966 (0) Table wp_litespeed_url: Total expected rows (via COUNT): 0
+0262.030 (0) Table wp_litespeed_url: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=635) in 0.07 seconds
+0262.109 (0) Table wp_litespeed_url: finishing file(s) (2, 0.4 KB)
+0262.168 (0) Table wp_litespeed_url_file: Total expected rows (via COUNT): 0
+0262.196 (0) Table wp_litespeed_url_file: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1090) in 0.03 seconds
+0262.254 (0) Table wp_litespeed_url_file: finishing file(s) (2, 0.5 KB)
+0262.336 (0) Table wp_smush_dir_images: Total expected rows (via COUNT): 0
+0262.379 (0) Table wp_smush_dir_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1215) in 0.05 seconds
+0262.530 (0) Table wp_smush_dir_images: finishing file(s) (2, 0.5 KB)
+0262.630 (0) Table wp_um_metadata: Total expected rows (via COUNT): 0
+0262.691 (0) Table wp_um_metadata: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=756) in 0.10 seconds
+0262.836 (0) Table wp_um_metadata: finishing file(s) (2, 0.4 KB)
+0262.907 (0) Table wp_user_registration_sessions: Total expected rows (approximate): 0
+0262.938 (0) Table wp_user_registration_sessions: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=788) in 0.04 seconds
+0263.033 (0) Table wp_user_registration_sessions: finishing file(s) (2, 0.4 KB)
+0263.127 (0) Table wp_wc_admin_note_actions: Total expected rows (via COUNT): 112
+0263.145 (0) Table is relatively small; fetch_rows will thus be: 200 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0263.201 (0) Table wp_wc_admin_note_actions: Rows added in this batch (next record: 6972): 112 (uncompressed bytes in this segment=22069) in 0.12 seconds
+0263.285 (0) Table wp_wc_admin_note_actions: finishing file(s) (2, 3.7 KB)
+0263.375 (0) Table wp_wc_admin_notes: Total expected rows (via COUNT): 78
+0263.392 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0263.422 (0) Table wp_wc_admin_notes: Rows added in this batch (next record: 79): 78 (uncompressed bytes in this segment=38320) in 0.08 seconds
+0263.529 (0) Table wp_wc_admin_notes: finishing file(s) (2, 8.4 KB)
+0263.575 (0) Table wp_wc_customer_lookup: Total expected rows (via COUNT): 1
+0263.590 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0263.656 (0) Table wp_wc_customer_lookup: Rows added in this batch (next record: 3): 1 (uncompressed bytes in this segment=1625) in 0.09 seconds
+0263.718 (0) Table wp_wc_customer_lookup: finishing file(s) (2, 0.6 KB)
+0263.796 (0) Table wp_wc_download_log: Total expected rows (via COUNT): 0
+0263.829 (0) Table wp_wc_download_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=757) in 0.04 seconds
+0263.875 (0) Table wp_wc_download_log: finishing file(s) (2, 0.4 KB)
+0263.948 (0) Table wp_wc_order_addresses: Total expected rows (via COUNT): 1
+0263.966 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0264.005 (0) Table wp_wc_order_addresses: Rows added in this batch (next record: 3): 1 (uncompressed bytes in this segment=1777) in 0.07 seconds
+0264.063 (0) Table wp_wc_order_addresses: finishing file(s) (2, 0.6 KB)
+0264.131 (0) Table wp_wc_order_coupon_lookup: Total expected rows (approximate): 0
+0264.171 (0) Table wp_wc_order_coupon_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=709) in 0.04 seconds
+0264.234 (0) Table wp_wc_order_coupon_lookup: finishing file(s) (2, 0.4 KB)
+0264.278 (0) Table wp_wc_order_operational_data: Total expected rows (via COUNT): 1
+0264.292 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0264.322 (0) Table wp_wc_order_operational_data: Rows added in this batch (next record: 19): 1 (uncompressed bytes in this segment=1888) in 0.05 seconds
+0264.376 (0) Table wp_wc_order_operational_data: finishing file(s) (2, 0.7 KB)
+0264.428 (0) Table wp_wc_order_product_lookup: Total expected rows (via COUNT): 5
+0264.445 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0264.472 (0) Table wp_wc_order_product_lookup: Rows added in this batch (next record: 7): 5 (uncompressed bytes in this segment=1713) in 0.05 seconds
+0264.528 (0) Table wp_wc_order_product_lookup: finishing file(s) (2, 0.6 KB)
+0264.573 (0) Table wp_wc_order_stats: Total expected rows (via COUNT): 1
+0264.588 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0264.601 (0) Table wp_wc_order_stats: Rows added in this batch (next record: 23927): 1 (uncompressed bytes in this segment=1445) in 0.03 seconds
+0264.657 (0) Table wp_wc_order_stats: finishing file(s) (2, 0.6 KB)
+0264.708 (0) Table wp_wc_order_tax_lookup: Total expected rows (approximate): 0
+0264.774 (0) Table wp_wc_order_tax_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=791) in 0.07 seconds
+0264.825 (0) Table wp_wc_order_tax_lookup: finishing file(s) (2, 0.4 KB)
+0264.867 (0) Table wp_wc_orders: Total expected rows (via COUNT): 1
+0264.895 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0264.955 (0) Table wp_wc_orders: Rows added in this batch (next record: 23927): 1 (uncompressed bytes in this segment=2308) in 0.09 seconds
+0265.014 (0) Table wp_wc_orders: finishing file(s) (2, 0.8 KB)
+0265.063 (0) Table wp_wc_orders_meta: Total expected rows (via COUNT): 11
+0265.097 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0265.135 (0) Table wp_wc_orders_meta: Rows added in this batch (next record: 42): 11 (uncompressed bytes in this segment=1697) in 0.08 seconds
+0265.190 (0) Table wp_wc_orders_meta: finishing file(s) (2, 0.8 KB)
+0265.242 (0) Table wp_wc_product_attributes_lookup: Total expected rows (approximate): 0
+0265.287 (0) Table wp_wc_product_attributes_lookup: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=872) in 0.05 seconds
+0265.367 (0) Table wp_wc_product_attributes_lookup: finishing file(s) (2, 0.4 KB)
+0265.461 (0) Table wp_wc_product_download_directories: Total expected rows (via COUNT): 2
+0265.486 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0265.523 (0) Table wp_wc_product_download_directories: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=936) in 0.07 seconds
+0265.641 (0) Table wp_wc_product_download_directories: finishing file(s) (2, 0.5 KB)
+0265.729 (0) Table wp_wc_rate_limits: Total expected rows (via COUNT): 0
+0265.824 (0) Table wp_wc_rate_limits: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=710) in 0.11 seconds
+0265.887 (0) Table wp_wc_rate_limits: finishing file(s) (2, 0.4 KB)
+0265.936 (0) Table wp_wc_webhooks: Total expected rows (via COUNT): 0
+0265.948 (0) Table wp_wc_webhooks: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1325) in 0.02 seconds
+0266.007 (0) Table wp_wc_webhooks: finishing file(s) (2, 0.5 KB)
+0266.088 (0) Table wp_woocommerce_api_keys: Total expected rows (via COUNT): 1
+0266.105 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0266.139 (0) Table wp_woocommerce_api_keys: Rows added in this batch (next record: 2): 1 (uncompressed bytes in this segment=1406) in 0.07 seconds
+0266.254 (0) Table wp_woocommerce_api_keys: finishing file(s) (2, 0.6 KB)
+0266.320 (0) Table wp_woocommerce_attribute_taxonomies: Total expected rows (via COUNT): 0
+0266.359 (0) Table wp_woocommerce_attribute_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1042) in 0.04 seconds
+0266.414 (0) Table wp_woocommerce_attribute_taxonomies: finishing file(s) (2, 0.4 KB)
+0266.488 (0) Table wp_woocommerce_downloadable_product_permissions: Total expected rows (via COUNT): 0
+0266.511 (0) Table wp_woocommerce_downloadable_product_permissions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1606) in 0.03 seconds
+0266.566 (0) Table wp_woocommerce_downloadable_product_permissions: finishing file(s) (2, 0.5 KB)
+0266.655 (0) Table wp_woocommerce_log: Total expected rows (via COUNT): 0
+0266.691 (0) Table wp_woocommerce_log: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=781) in 0.07 seconds
+0266.775 (0) Table wp_woocommerce_log: finishing file(s) (2, 0.4 KB)
+0266.823 (0) Table wp_woocommerce_order_items: Total expected rows (via COUNT): 5
+0266.845 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0266.883 (0) Table wp_woocommerce_order_items: Rows added in this batch (next record: 7): 5 (uncompressed bytes in this segment=1206) in 0.06 seconds
+0266.963 (0) Table wp_woocommerce_order_items: finishing file(s) (2, 0.6 KB)
+0267.022 (0) Table wp_woocommerce_payment_tokens: Total expected rows (via COUNT): 0
+0267.060 (0) Table wp_woocommerce_payment_tokens: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=899) in 0.04 seconds
+0267.115 (0) Table wp_woocommerce_payment_tokens: finishing file(s) (2, 0.4 KB)
+0267.197 (0) Table wp_woocommerce_sessions: Total expected rows (via COUNT): 0
+0267.226 (0) Table wp_woocommerce_sessions: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=772) in 0.06 seconds
+0267.309 (0) Table wp_woocommerce_sessions: finishing file(s) (2, 0.4 KB)
+0267.356 (0) Table wp_woocommerce_shipping_zone_locations: Total expected rows (via COUNT): 0
+0267.381 (0) Table wp_woocommerce_shipping_zone_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=939) in 0.03 seconds
+0267.526 (0) Table wp_woocommerce_shipping_zone_locations: finishing file(s) (2, 0.4 KB)
+0267.593 (0) Table wp_woocommerce_shipping_zone_methods: Total expected rows (via COUNT): 0
+0267.616 (0) Table wp_woocommerce_shipping_zone_methods: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=785) in 0.03 seconds
+0267.678 (0) Table wp_woocommerce_shipping_zone_methods: finishing file(s) (2, 0.4 KB)
+0267.771 (0) Table wp_woocommerce_shipping_zones: Total expected rows (via COUNT): 0
+0267.793 (0) Table wp_woocommerce_shipping_zones: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=647) in 0.02 seconds
+0267.867 (0) Table wp_woocommerce_shipping_zones: finishing file(s) (2, 0.4 KB)
+0267.927 (0) Table wp_woocommerce_tax_rate_locations: Total expected rows (via COUNT): 0
+0267.949 (0) Table wp_woocommerce_tax_rate_locations: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=884) in 0.03 seconds
+0268.011 (0) Table wp_woocommerce_tax_rate_locations: finishing file(s) (2, 0.4 KB)
+0268.061 (0) Table wp_woocommerce_tax_rates: Total expected rows (via COUNT): 0
+0268.085 (0) Table wp_woocommerce_tax_rates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1393) in 0.03 seconds
+0268.139 (0) Table wp_woocommerce_tax_rates: finishing file(s) (2, 0.5 KB)
+0268.213 (0) Table wp_wpforms_logs: Total expected rows (via COUNT): 3
+0268.228 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0268.256 (0) Table wp_wpforms_logs: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=1171) in 0.07 seconds
+0268.362 (0) Table wp_wpforms_logs: finishing file(s) (2, 0.5 KB)
+0268.438 (0) Table wp_wpforms_payment_meta: Total expected rows (via COUNT): 0
+0268.466 (0) Table wp_wpforms_payment_meta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=775) in 0.06 seconds
+0268.530 (0) Table wp_wpforms_payment_meta: finishing file(s) (2, 0.4 KB)
+0268.584 (0) Table wp_wpforms_payments: Total expected rows (via COUNT): 0
+0268.607 (0) Table wp_wpforms_payments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=2178) in 0.03 seconds
+0268.656 (0) Table wp_wpforms_payments: finishing file(s) (2, 0.6 KB)
+0268.740 (0) Table wp_wpforms_tasks_meta: Total expected rows (via COUNT): 11
+0268.763 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0268.811 (0) Table wp_wpforms_tasks_meta: Rows added in this batch (next record: 133): 11 (uncompressed bytes in this segment=1570) in 0.11 seconds
+0268.886 (0) Table wp_wpforms_tasks_meta: finishing file(s) (2, 0.6 KB)
+0268.959 (0) Table wp_yoast_indexable: Total expected rows (approximate): 1322
+0269.067 (0) Table wp_yoast_indexable: Rows added in this batch (next record: 1412): 1412 (uncompressed bytes in this segment=1042114) in 0.13 seconds
+0269.158 (0) Table wp_yoast_indexable: finishing file(s) (2, 124.7 KB)
+0269.209 (0) Table wp_yoast_indexable_hierarchy: Total expected rows (approximate): 1572
+0269.231 (0) Table wp_yoast_indexable_hierarchy: Rows added in this batch (next record: 2000): 1634 (uncompressed bytes in this segment=29770) in 0.02 seconds
+0269.279 (0) Table wp_yoast_indexable_hierarchy: finishing file(s) (2, 5.2 KB)
+0269.332 (0) Table wp_yoast_migrations: Total expected rows (via COUNT): 24
+0269.353 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0269.394 (0) Table wp_yoast_migrations: Rows added in this batch (next record: 24): 24 (uncompressed bytes in this segment=1283) in 0.07 seconds
+0269.450 (0) Table wp_yoast_migrations: finishing file(s) (2, 0.6 KB)
+0269.490 (0) Table wp_yoast_primary_term: Total expected rows (via COUNT): 1
+0269.503 (0) Table is relatively small; fetch_rows will thus be: 20 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0269.521 (0) Table wp_yoast_primary_term: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1005) in 0.03 seconds
+0269.574 (0) Table wp_yoast_primary_term: finishing file(s) (2, 0.5 KB)
+0269.617 (0) Table wp_yoast_seo_links: Total expected rows (via COUNT): 62
+0269.636 (0) Table is relatively small; fetch_rows will thus be: 100 (allow_further_reductions=1, is_first_fetch=1, known_bigger_than_table=1)
+0269.693 (0) Table wp_yoast_seo_links: Rows added in this batch (next record: 116): 62 (uncompressed bytes in this segment=9491) in 0.08 seconds
+0269.757 (0) Table wp_yoast_seo_links: finishing file(s) (2, 1.9 KB)
+0269.787 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_options.table.tmpr312621.gz (1/79/fopen): adding to final database dump
+0269.818 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_options.table.gz (2/79/fopen): adding to final database dump
+0269.838 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_users.table.tmpr6.gz (3/79/fopen): adding to final database dump
+0269.855 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_users.table.gz (4/79/fopen): adding to final database dump
+0269.874 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_usermeta.table.tmpr383.gz (5/79/fopen): adding to final database dump
+0269.902 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_usermeta.table.gz (6/79/fopen): adding to final database dump
+0269.915 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_actionscheduler_actions.table.tmpr24104.gz (7/79/fopen): adding to final database dump
+0269.927 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_actionscheduler_actions.table.gz (8/79/fopen): adding to final database dump
+0269.938 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_actionscheduler_claims.table.tmpr0.gz (9/79/fopen): adding to final database dump
+0269.962 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_actionscheduler_claims.table.gz (10/79/fopen): adding to final database dump
+0269.973 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_actionscheduler_groups.table.tmpr9.gz (11/79/fopen): adding to final database dump
+0269.986 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_actionscheduler_groups.table.gz (12/79/fopen): adding to final database dump
+0270.003 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_actionscheduler_logs.table.tmpr72283.gz (13/79/fopen): adding to final database dump
+0270.021 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_actionscheduler_logs.table.gz (14/79/fopen): adding to final database dump
+0270.044 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_commentmeta.table.tmpr0.gz (15/79/fopen): adding to final database dump
+0270.064 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_commentmeta.table.gz (16/79/fopen): adding to final database dump
+0270.078 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_comments.table.tmpr9.gz (17/79/fopen): adding to final database dump
+0270.093 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_comments.table.gz (18/79/fopen): adding to final database dump
+0270.107 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_dgwt_wcas_stats.table.tmpr0.gz (19/79/fopen): adding to final database dump
+0270.122 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_dgwt_wcas_stats.table.gz (20/79/fopen): adding to final database dump
+0270.135 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_notes.table.tmpr0.gz (21/79/fopen): adding to final database dump
+0270.151 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_notes.table.gz (22/79/fopen): adding to final database dump
+0270.168 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_notes_users_relations.table.tmpr0.gz (23/79/fopen): adding to final database dump
+0270.179 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_notes_users_relations.table.gz (24/79/fopen): adding to final database dump
+0270.200 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_links.table.tmpr0.gz (25/79/fopen): adding to final database dump
+0270.221 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_links.table.gz (26/79/fopen): adding to final database dump
+0270.236 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_postmeta.table.tmpr320478.gz (27/79/fopen): adding to final database dump
+0270.282 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_postmeta.table.gz (28/79/fopen): adding to final database dump
+0270.300 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_posts.table.tmpr23957.gz (29/79/fopen): adding to final database dump
+0270.320 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_posts.table.gz (30/79/fopen): adding to final database dump
+0270.335 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_term_relationships.table.tmpr100001.gz (31/79/fopen): adding to final database dump
+0270.347 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_term_relationships.table.gz (32/79/fopen): adding to final database dump
+0270.360 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_term_taxonomy.table.tmpr390.gz (33/79/fopen): adding to final database dump
+0270.372 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_term_taxonomy.table.gz (34/79/fopen): adding to final database dump
+0270.389 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_termmeta.table.tmpr1245.gz (35/79/fopen): adding to final database dump
+0270.406 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_termmeta.table.gz (36/79/fopen): adding to final database dump
+0270.423 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_terms.table.tmpr390.gz (37/79/fopen): adding to final database dump
+0270.435 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_terms.table.gz (38/79/fopen): adding to final database dump
+0270.456 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_category_lookup.table.tmpr1001.gz (39/79/fopen): adding to final database dump
+0270.503 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_category_lookup.table.gz (40/79/fopen): adding to final database dump
+0270.525 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_product_meta_lookup.table.tmpr15787.gz (41/79/fopen): adding to final database dump
+0270.540 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_product_meta_lookup.table.gz (42/79/fopen): adding to final database dump
+0270.557 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_reserved_stock.table.tmpr1.gz (43/79/fopen): adding to final database dump
+0270.571 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_reserved_stock.table.gz (44/79/fopen): adding to final database dump
+0270.586 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_tax_rate_classes.table.tmpr3.gz (45/79/fopen): adding to final database dump
+0270.597 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_tax_rate_classes.table.gz (46/79/fopen): adding to final database dump
+0270.608 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_order_itemmeta.table.tmpr64.gz (47/79/fopen): adding to final database dump
+0270.628 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_order_itemmeta.table.gz (48/79/fopen): adding to final database dump
+0270.644 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_payment_tokenmeta.table.tmpr0.gz (49/79/fopen): adding to final database dump
+0270.672 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_payment_tokenmeta.table.gz (50/79/fopen): adding to final database dump
+0270.685 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_cartflows_ca_cart_abandonment.table.tmpr1001.gz (51/79/fopen): adding to final database dump
+0270.697 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_cartflows_ca_cart_abandonment.table.gz (52/79/fopen): adding to final database dump
+0270.716 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_cartflows_ca_email_history.table.tmpr0.gz (53/79/fopen): adding to final database dump
+0270.727 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_cartflows_ca_email_history.table.gz (54/79/fopen): adding to final database dump
+0270.743 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_cartflows_ca_email_templates.table.tmpr4.gz (55/79/fopen): adding to final database dump
+0270.767 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_cartflows_ca_email_templates.table.gz (56/79/fopen): adding to final database dump
+0270.782 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_cartflows_ca_email_templates_meta.table.tmpr19.gz (57/79/fopen): adding to final database dump
+0270.797 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_cartflows_ca_email_templates_meta.table.gz (58/79/fopen): adding to final database dump
+0270.816 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_events.table.tmpr0.gz (59/79/fopen): adding to final database dump
+0270.834 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_events.table.gz (60/79/fopen): adding to final database dump
+0270.850 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_submissions.table.tmpr0.gz (61/79/fopen): adding to final database dump
+0270.862 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_submissions.table.gz (62/79/fopen): adding to final database dump
+0270.880 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_submissions_actions_log.table.tmpr0.gz (63/79/fopen): adding to final database dump
+0270.898 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_submissions_actions_log.table.gz (64/79/fopen): adding to final database dump
+0270.915 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_submissions_values.table.tmpr0.gz (65/79/fopen): adding to final database dump
+0270.927 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_e_submissions_values.table.gz (66/79/fopen): adding to final database dump
+0270.941 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_ev_claves.table.tmpr0.gz (67/79/fopen): adding to final database dump
+0270.956 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_ev_claves.table.gz (68/79/fopen): adding to final database dump
+0270.974 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_icl_string_translations.table.tmpr3387.gz (69/79/fopen): adding to final database dump
+0270.991 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_icl_string_translations.table.gz (70/79/fopen): adding to final database dump
+0271.011 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_icl_strings.table.tmpr1701.gz (71/79/fopen): adding to final database dump
+0271.033 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_icl_strings.table.gz (72/79/fopen): adding to final database dump
+0271.050 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_jetpack_sync_queue.table.tmpr5215.gz (73/79/fopen): adding to final database dump
+0271.066 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_jetpack_sync_queue.table.gz (74/79/fopen): adding to final database dump
+0271.081 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_litespeed_url.table.tmpr0.gz (75/79/fopen): adding to final database dump
+0271.108 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_litespeed_url.table.gz (76/79/fopen): adding to final database dump
+0271.124 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_litespeed_url_file.table.tmpr0.gz (77/79/fopen): adding to final database dump
+0271.135 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_litespeed_url_file.table.gz (78/79/fopen): adding to final database dump
+0271.148 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_smush_dir_images.table.tmpr0.gz (79/79/fopen): adding to final database dump
+0271.166 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_smush_dir_images.table.gz (80/79/fopen): adding to final database dump
+0271.177 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_um_metadata.table.tmpr0.gz (81/79/fopen): adding to final database dump
+0271.188 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_um_metadata.table.gz (82/79/fopen): adding to final database dump
+0271.202 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_user_registration_sessions.table.tmpr1.gz (83/79/fopen): adding to final database dump
+0271.219 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_user_registration_sessions.table.gz (84/79/fopen): adding to final database dump
+0271.235 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_admin_note_actions.table.tmpr6973.gz (85/79/fopen): adding to final database dump
+0271.253 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_admin_note_actions.table.gz (86/79/fopen): adding to final database dump
+0271.267 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_admin_notes.table.tmpr80.gz (87/79/fopen): adding to final database dump
+0271.289 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_admin_notes.table.gz (88/79/fopen): adding to final database dump
+0271.307 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_customer_lookup.table.tmpr4.gz (89/79/fopen): adding to final database dump
+0271.335 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_customer_lookup.table.gz (90/79/fopen): adding to final database dump
+0271.351 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_download_log.table.tmpr0.gz (91/79/fopen): adding to final database dump
+0271.362 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_download_log.table.gz (92/79/fopen): adding to final database dump
+0271.374 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_addresses.table.tmpr4.gz (93/79/fopen): adding to final database dump
+0271.392 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_addresses.table.gz (94/79/fopen): adding to final database dump
+0271.410 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_coupon_lookup.table.tmpr1.gz (95/79/fopen): adding to final database dump
+0271.430 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_coupon_lookup.table.gz (96/79/fopen): adding to final database dump
+0271.444 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_operational_data.table.tmpr20.gz (97/79/fopen): adding to final database dump
+0271.464 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_operational_data.table.gz (98/79/fopen): adding to final database dump
+0271.486 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_product_lookup.table.tmpr8.gz (99/79/fopen): adding to final database dump
+0271.524 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_product_lookup.table.gz (100/79/fopen): adding to final database dump
+0271.546 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_stats.table.tmpr23928.gz (101/79/fopen): adding to final database dump
+0271.563 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_stats.table.gz (102/79/fopen): adding to final database dump
+0271.574 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_tax_lookup.table.tmpr1.gz (103/79/fopen): adding to final database dump
+0271.589 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_order_tax_lookup.table.gz (104/79/fopen): adding to final database dump
+0271.605 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_orders.table.tmpr23928.gz (105/79/fopen): adding to final database dump
+0271.621 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_orders.table.gz (106/79/fopen): adding to final database dump
+0271.639 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_orders_meta.table.tmpr43.gz (107/79/fopen): adding to final database dump
+0271.660 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_orders_meta.table.gz (108/79/fopen): adding to final database dump
+0271.685 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_product_attributes_lookup.table.tmpr1.gz (109/79/fopen): adding to final database dump
+0271.704 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_product_attributes_lookup.table.gz (110/79/fopen): adding to final database dump
+0271.722 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_product_download_directories.table.tmpr3.gz (111/79/fopen): adding to final database dump
+0271.761 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_product_download_directories.table.gz (112/79/fopen): adding to final database dump
+0271.773 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_rate_limits.table.tmpr0.gz (113/79/fopen): adding to final database dump
+0271.797 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_rate_limits.table.gz (114/79/fopen): adding to final database dump
+0271.821 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_webhooks.table.tmpr0.gz (115/79/fopen): adding to final database dump
+0271.843 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wc_webhooks.table.gz (116/79/fopen): adding to final database dump
+0271.858 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_api_keys.table.tmpr3.gz (117/79/fopen): adding to final database dump
+0271.874 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_api_keys.table.gz (118/79/fopen): adding to final database dump
+0271.887 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_attribute_taxonomies.table.tmpr0.gz (119/79/fopen): adding to final database dump
+0271.906 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_attribute_taxonomies.table.gz (120/79/fopen): adding to final database dump
+0271.921 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_downloadable_product_permissions.table.tmpr0.gz (121/79/fopen): adding to final database dump
+0271.937 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_downloadable_product_permissions.table.gz (122/79/fopen): adding to final database dump
+0271.955 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_log.table.tmpr0.gz (123/79/fopen): adding to final database dump
+0271.968 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_log.table.gz (124/79/fopen): adding to final database dump
+0271.986 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_order_items.table.tmpr8.gz (125/79/fopen): adding to final database dump
+0271.998 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_order_items.table.gz (126/79/fopen): adding to final database dump
+0272.020 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_payment_tokens.table.tmpr0.gz (127/79/fopen): adding to final database dump
+0272.034 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_payment_tokens.table.gz (128/79/fopen): adding to final database dump
+0272.052 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_sessions.table.tmpr0.gz (129/79/fopen): adding to final database dump
+0272.071 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_sessions.table.gz (130/79/fopen): adding to final database dump
+0272.093 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_shipping_zone_locations.table.tmpr0.gz (131/79/fopen): adding to final database dump
+0272.109 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_shipping_zone_locations.table.gz (132/79/fopen): adding to final database dump
+0272.128 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_shipping_zone_methods.table.tmpr0.gz (133/79/fopen): adding to final database dump
+0272.140 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_shipping_zone_methods.table.gz (134/79/fopen): adding to final database dump
+0272.162 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_shipping_zones.table.tmpr0.gz (135/79/fopen): adding to final database dump
+0272.179 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_shipping_zones.table.gz (136/79/fopen): adding to final database dump
+0272.190 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_tax_rate_locations.table.tmpr0.gz (137/79/fopen): adding to final database dump
+0272.210 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_tax_rate_locations.table.gz (138/79/fopen): adding to final database dump
+0272.230 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_tax_rates.table.tmpr0.gz (139/79/fopen): adding to final database dump
+0272.247 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_woocommerce_tax_rates.table.gz (140/79/fopen): adding to final database dump
+0272.265 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wpforms_logs.table.tmpr4.gz (141/79/fopen): adding to final database dump
+0272.281 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wpforms_logs.table.gz (142/79/fopen): adding to final database dump
+0272.303 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wpforms_payment_meta.table.tmpr0.gz (143/79/fopen): adding to final database dump
+0272.317 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wpforms_payment_meta.table.gz (144/79/fopen): adding to final database dump
+0272.334 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wpforms_payments.table.tmpr0.gz (145/79/fopen): adding to final database dump
+0272.349 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wpforms_payments.table.gz (146/79/fopen): adding to final database dump
+0272.371 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wpforms_tasks_meta.table.tmpr134.gz (147/79/fopen): adding to final database dump
+0272.384 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_wpforms_tasks_meta.table.gz (148/79/fopen): adding to final database dump
+0272.400 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_indexable.table.tmpr1413.gz (149/79/fopen): adding to final database dump
+0272.416 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_indexable.table.gz (150/79/fopen): adding to final database dump
+0272.436 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_indexable_hierarchy.table.tmpr2001.gz (151/79/fopen): adding to final database dump
+0272.452 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_indexable_hierarchy.table.gz (152/79/fopen): adding to final database dump
+0272.479 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_migrations.table.tmpr25.gz (153/79/fopen): adding to final database dump
+0272.509 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_migrations.table.gz (154/79/fopen): adding to final database dump
+0272.524 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_primary_term.table.tmpr2.gz (155/79/fopen): adding to final database dump
+0272.541 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_primary_term.table.gz (156/79/fopen): adding to final database dump
+0272.559 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_seo_links.table.tmpr117.gz (157/79/fopen): adding to final database dump
+0272.581 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db-table-wp_yoast_seo_links.table.gz (158/79/fopen): adding to final database dump
+0272.610 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db.gz: finished writing out complete database file (4949 KB)
+0272.719 (0) Total database tables backed up: 79 (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db.gz, size: 5067871, sha1: e0974be512166cb4a98b32ba0797aecacd33e003, sha256: dbf9237ad733183002d0af68fcb6c4949af16c338f2549cb4c897543ac257667)
+0272.821 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip: plugins: This file has already been successfully uploaded
+0272.844 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip: themes: This file has already been successfully uploaded
+0272.862 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads.zip: uploads: This file has already been successfully uploaded
+0272.879 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip: uploads: This file has already been successfully uploaded
+0272.897 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip: uploads: This file has already been successfully uploaded
+0272.917 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-mu-plugins.zip: mu-plugins: This file has already been successfully uploaded
+0272.945 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip: others: This file has already been successfully uploaded
+0272.963 (0) backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db.gz: db: This file has not yet been successfully uploaded: will queue
+0272.981 (0) Saving backup history. Total backup size: 1.8 GB
+0273.015 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0273.068 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0273.087 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-d4771bb513157c1fc403cb1e73e772a7)
+0273.404 (0) Google Drive: quota usage: used=7358 MB, total=15360 MB, available=8002 MB
+0273.425 (0) Google Drive: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db.gz: Attempting to upload to Google Drive (into folder id: 1cmNyxCE1o_IvcPeClcHU1EOPbRCbaMSx)
+0274.412 (0) Googledrive chunked upload: 20.7 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 54.4 / 134)
+0274.800 (0) Googledrive chunked upload: 62.1 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 54.4 / 134)
+0277.318 (0) Googledrive chunked upload: 100 % uploaded (3145728)
+0277.362 (0) Google Drive: OK: Archive backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db.gz uploaded in 3.92 seconds
+0277.384 (0) Recording as successfully uploaded: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db.gz
+0277.409 (0) Deleting local file: backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-db.gz: OK
+0277.442 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0277.471 (0) Number of backup sets in history: 3; groups (db): 1
+0277.500 (0) Examining (for databases) backup set with group_id=0, nonce=bbabc7abf130, datestamp=1729176974 (Oct 17 2024 14:56:14)
+0277.525 (0) This backup set is the backup set just made, so will not be deleted.
+0277.525 (0) Examining (for databases) backup set with group_id=0, nonce=6e716e3cb2da, datestamp=1728831311 (Oct 13 2024 14:55:11)
+0277.525 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0277.549 (0) Examining (for databases) backup set with group_id=0, nonce=9686830b051e, datestamp=1721919365 (Jul 25 2024 14:56:05)
+0277.549 (0) 1721919365: db: this set includes a database (backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-db.gz); db count is now 2
+0277.549 (0) 1721919365: db: over retain limit (2); will delete this database
+0278.610 (0) Google Drive: backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-db.gz: Deletion failed: file was not found
+0278.660 (0) This backup set remains non-empty (f=1/d=0); will retain in history
+0278.680 (0) Number of backup sets in history: 3; groups (files): 1
+0278.698 (0) Examining (for files) backup set with nonce=bbabc7abf130, datestamp=1729176974 (Oct 17 2024 14:56:14)
+0278.698 (0) This backup set is the backup set just made, so will not be deleted.
+0278.731 (0) This backup set is the backup set just made, so will not be deleted.
+0278.731 (0) This backup set is the backup set just made, so will not be deleted.
+0278.731 (0) This backup set is the backup set just made, so will not be deleted.
+0278.731 (0) This backup set is the backup set just made, so will not be deleted.
+0278.731 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0278.752 (0) Examining (for files) backup set with nonce=6e716e3cb2da, datestamp=1728831311 (Oct 13 2024 14:55:11)
+0278.752 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0278.753 (0) Examining (for files) backup set with nonce=9686830b051e, datestamp=1721919365 (Jul 25 2024 14:56:05)
+0278.753 (0) plugins: over retain limit (2); will delete this file entity
+0278.753 (0) themes: over retain limit (2); will delete this file entity
+0278.753 (0) uploads: over retain limit (2); will delete this file entity
+0278.753 (0) mu-plugins: over retain limit (2); will delete this file entity
+0278.753 (0) others: over retain limit (2); will delete this file entity
+0279.221 (0) Google Drive: backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-plugins.zip: Deletion failed: file was not found
+0279.240 (0) Google Drive: backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-themes.zip: Deletion failed: file was not found
+0279.258 (0) Google Drive: backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-uploads.zip: Deletion failed: file was not found
+0279.275 (0) Google Drive: backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-uploads2.zip: Deletion failed: file was not found
+0279.294 (0) Google Drive: backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-uploads3.zip: Deletion failed: file was not found
+0279.310 (0) Google Drive: backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-mu-plugins.zip: Deletion failed: file was not found
+0279.322 (0) Google Drive: backup_2024-07-25-1456_Supermercado_Online_SuperCrazy_9686830b051e-others.zip: Deletion failed: file was not found
+0279.364 (0) This backup set is now empty; will remove from history
+0279.375 (0) Corresponding log file (log.9686830b051e.txt) not found - must have already been deleted
+0279.387 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0279.450 (0) Resume backup (bbabc7abf130, 0): finish run
+0279.515 (0) Decremented the semaphore (fd) by 1
+0279.555 (0) Semaphore (fd) unlocked
+0279.573 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0279.629 (0) The backup succeeded (with warnings) and is now complete
+0279.654 (0) Deleting zip manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-plugins.zip.list.tmp)
+0279.670 (0) Deleting zip manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-themes.zip.list.tmp)
+0279.715 (0) Deleting zip manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads.zip.list.tmp)
+0279.739 (0) Deleting zip manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads2.zip.list.tmp)
+0279.755 (0) Deleting zip manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-uploads3.zip.list.tmp)
+0279.783 (0) Deleting zip manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-mu-plugins.zip.list.tmp)
+0279.814 (0) Deleting zip manifest (backup_2024-10-17-1456_Supermercado_Online_SuperCrazy_bbabc7abf130-others.zip.list.tmp)
+0279.830 (0) Fetching RSS news feed
+0281.238 (0) Fetched RSS news feed; result is a: SimplePie
+0281.265 (0) Sending email ('Archivos y base de datos (Copia de seguridad completa)') report (attachments: 1, size: 170.2 KB) to: no-re...
+0281.453 (0) La copia de seguridad se ha realizado correctamente (con advertencias) y se ha completado
